@@ -12,3 +12,4 @@ public/webfonts/*
 .baseDir
 !Gruntfile.js
 !webpack.*.js
+.idea/
