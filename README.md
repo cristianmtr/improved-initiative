@@ -1,3 +1,9 @@
+# TODO
+
+- [ ] assign categories to monsters
+
+idea: look up monsters by types in [5e srd](https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/) and match by name
+
 # improved-initiative
 *Combat tracker for Dungeons and Dragons (D&amp;D) 5th Edition*
 
