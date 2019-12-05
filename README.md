@@ -1,13 +1,7 @@
-# TODO
-
-- [ ] assign categories to monsters
-
-idea: look up monsters by types in [5e srd](https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/) and match by name
-
 # improved-initiative
-*Combat tracker for Dungeons and Dragons (D&amp;D) 5th Edition*
+*Combat tracker for OSR systems*
 
-The official Improved Initiative app lives at https://www.improved-initiative.com
+This is a fork of the 5E tracker at https://www.improved-initiative.com
 
 To run, install node.js and run the following in the cloned directory:
 
@@ -69,3 +63,8 @@ Assuming you started the container with the name `improved-initiative` as shown 
 ## License
 
 The Improved Initiative app is made available under the [MIT](license) license. 
+
+## Copyright notice
+
+The monsters contained in here are part of the S&W SRD at [https://www.d20swsrd.com/](https://www.d20swsrd.com/). All copyright belongs to the original authors. 
+
