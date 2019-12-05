@@ -30427,7 +30427,7 @@
         "Player": ""
     },
     {
-        "Name": "Glass Wyrm",
+        "Name": "Glass Wyrm (5HD)",
         "Source": "Monstrosities",
         "Type": "Medium beast, unaligned",
         "HP": {
@@ -30451,7 +30451,7 @@
         "Skills": [],
         "Senses": [],
         "Languages": [],
-        "Challenge": "5 HD (8",
+        "Challenge": "8",
         "Traits": [],
         "Actions": [
             {
@@ -30468,7 +30468,109 @@
             },
             {
                 "name": "XP",
-                "Content": "XP: 800)"
+                "Content": "800"
+            }
+        ],
+        "Reactions": [],
+        "LegendaryActions": [],
+        "Description": "https://www.d20swsrd.com/for-the-referee/monsters/all-monsters/monster-details-e-through-g/#Glass_Wyrm",
+        "ImageURL": "",
+        "Player": ""
+    },
+    {
+        "Name": "Glass Wyrm (6HD)",
+        "Source": "Monstrosities",
+        "Type": "Medium beast, unaligned",
+        "HP": {
+            "Value": "6",
+            "Notes": "[ 5-7 ]"
+        },
+        "AC": {
+            "Value": "1 [18]",
+            "Notes": null
+        },
+        "InitiativeModifier": 0,
+        "Speed": [
+            "9/24 (flying)"
+        ],
+        "Abilities": {},
+        "DamageVulnerabilities": [],
+        "DamageResistances": [],
+        "DamageImmunities": [],
+        "ConditionImmunities": [],
+        "Saves": [],
+        "Skills": [],
+        "Senses": [],
+        "Languages": [],
+        "Challenge": "9",
+        "Traits": [],
+        "Actions": [
+            {
+                "name": "Attack",
+                "Content": "Attack: 2 claws (1d6), 1 bite (3d6)"
+            },
+            {
+                "name": "Special",
+                "Content": "Special: Breathes shards of glass"
+            },
+            {
+                "name": "Save",
+                "Content": "Save: 12, 11 , or 9"
+            },
+            {
+                "name": "XP",
+                "Content": "1100"
+            }
+        ],
+        "Reactions": [],
+        "LegendaryActions": [],
+        "Description": "https://www.d20swsrd.com/for-the-referee/monsters/all-monsters/monster-details-e-through-g/#Glass_Wyrm",
+        "ImageURL": "",
+        "Player": ""
+    },
+    {
+        "Name": "Glass Wyrm (7HD)",
+        "Source": "Monstrosities",
+        "Type": "Medium beast, unaligned",
+        "HP": {
+            "Value": "7",
+            "Notes": "[ 5-7 ]"
+        },
+        "AC": {
+            "Value": "1 [18]",
+            "Notes": null
+        },
+        "InitiativeModifier": 0,
+        "Speed": [
+            "9/24 (flying)"
+        ],
+        "Abilities": {},
+        "DamageVulnerabilities": [],
+        "DamageResistances": [],
+        "DamageImmunities": [],
+        "ConditionImmunities": [],
+        "Saves": [],
+        "Skills": [],
+        "Senses": [],
+        "Languages": [],
+        "Challenge": "10",
+        "Traits": [],
+        "Actions": [
+            {
+                "name": "Attack",
+                "Content": "Attack: 2 claws (1d6), 1 bite (3d6)"
+            },
+            {
+                "name": "Special",
+                "Content": "Special: Breathes shards of glass"
+            },
+            {
+                "name": "Save",
+                "Content": "Save: 12, 11 , or 9"
+            },
+            {
+                "name": "XP",
+                "Content": "1400"
             }
         ],
         "Reactions": [],
@@ -39403,7 +39505,7 @@
         "Player": ""
     },
     {
-        "Name": "Lantern Goat",
+        "Name": "Lantern Goat (7HD)",
         "Source": "Monstrosities",
         "Type": "Large beast, unaligned",
         "HP": {
@@ -39427,7 +39529,7 @@
         "Skills": [],
         "Senses": [],
         "Languages": [],
-        "Challenge": "7 HD (10",
+        "Challenge": "10",
         "Traits": [],
         "Actions": [
             {
@@ -39440,11 +39542,62 @@
             },
             {
                 "name": "Save",
-                "Content": "Save: 9 or 3"
+                "Content": "Save: 9"
             },
             {
                 "name": "XP",
-                "Content": "XP: 1400)"
+                "Content": "XP: 1400"
+            }
+        ],
+        "Reactions": [],
+        "LegendaryActions": [],
+        "Description": "https://www.d20swsrd.com/for-the-referee/monsters/all-monsters/monster-details-k-through-n/#Lantern_Goat",
+        "ImageURL": "",
+        "Player": ""
+    },
+    {
+        "Name": "Lantern Goat (14HD)",
+        "Source": "Monstrosities",
+        "Type": "Large beast, unaligned",
+        "HP": {
+            "Value": "14",
+            "Notes": "[ 7 or 14 ]"
+        },
+        "AC": {
+            "Value": "3 [16]",
+            "Notes": null
+        },
+        "InitiativeModifier": 0,
+        "Speed": [
+            "6"
+        ],
+        "Abilities": {},
+        "DamageVulnerabilities": [],
+        "DamageResistances": [],
+        "DamageImmunities": [],
+        "ConditionImmunities": [],
+        "Saves": [],
+        "Skills": [],
+        "Senses": [],
+        "Languages": [],
+        "Challenge": "17",
+        "Traits": [],
+        "Actions": [
+            {
+                "name": "Attack",
+                "Content": "Attack: butt (2d6) and 2 hooves (1d8)"
+            },
+            {
+                "name": "Special",
+                "Content": "Special: Fear light, soul capture"
+            },
+            {
+                "name": "Save",
+                "Content": "Save: 3"
+            },
+            {
+                "name": "XP",
+                "Content": "XP: 3500"
             }
         ],
         "Reactions": [],
