@@ -1,7 +1,16 @@
 # improved-initiative
+
 *Combat tracker for OSR systems*
 
-This is a fork of the 5E tracker at https://www.improved-initiative.com
+This is a fork of the 5E combat tracker at https://www.improved-initiative.com, but with the monsters from the Swords & Wizardry SRD, from https://www.d20swsrd.com/for-the-referee/monsters/all-monsters/.
+
+## TODO
+
+- include monsters from OSE
+- include spells
+- categories
+
+## Usage
 
 To run, install node.js and run the following in the cloned directory:
 
