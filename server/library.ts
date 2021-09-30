@@ -63,10 +63,10 @@ export class Library<TItem extends Listable> {
 
   private Add(items: any[]) {
     items.forEach(c => {
-      if (!(c.Name && c.Source)) {
-        throw `Missing Name or Source: Couldn't import ${JSON.stringify(c)}`;
+      if (!c.Name) {
+        throw `Missing Name: Couldn't import ${JSON.stringify(c)}`;
       }
-      c.Id = createId(c.Name, c.Source);
+      c.Id = createId(c.Name, "SWSRD");
       this.items[c.Id] = c;
       const listing: StoredListing = {
         Name: c.Name,

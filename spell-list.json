@@ -1,0 +1,2884 @@
+[
+  {
+    "Name": "Aerial Servant",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "7"
+      }
+    ],
+    "Range": "N/A",
+    "Duration": "Until completed or insanity",
+    "Description": [
+      "This spell summons a powerful creature from the elemental planes of air, to fetch and return one thing (or creature) to the caster. Only A creature with a Strength of 18 can fight its way from the servant’s grasp, and even then the chance is not likely to be greater than 50%. The servant can carry up to 500 poundsa in weight. An aerial servant has the following attributes: <ul style=\"list-style: disc; margin-left: 2rem;\"><li><strong>HD</strong> 16</li><li><strong>AC</strong> 3 [16]</li><li><strong>Atk Bonus</strong> +17</li><li><strong>Atk</strong> 1 (4d4)</li><li><strong>Move</strong> 240 ft</li>"
+    ]
+  },
+  {
+    "Name": "Animal Growth",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "5"
+      },
+      {
+        "className": "Magic-User",
+        "level": "5"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "2 hours",
+    "Description": [
+      "This spell causes 1d6 normal creatures to grow immediately to giant size. While the spell lasts, the affected creatures can attack as per a giant version of themselves."
+    ]
+  },
+  {
+    "Name": "Animal Summoning I",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "4"
+      }
+    ],
+    "Range": "30 feet",
+    "Duration": "1 hour",
+    "Description": [
+      "The Druid summons forth normal animals to serve as allies: 1 creature larger than a man (such as an elephant), 3 animals the size of a man or horse (such as a lion), or 6 animals smaller than a man (such as a wolf). The animals obey the caster’s commands."
+    ]
+  },
+  {
+    "Name": "Animal Summoning II",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "5"
+      }
+    ],
+    "Range": "30 feet",
+    "Duration": "2 hours",
+    "Description": [
+      "The Druid summons forth normal animals to serve as allies: 2 creatures larger than a man (such as an elephant), 6 animals the size of a man or horse (such as a lion), or 12 animals smaller than a man (such as wolves). The animals obey the caster’s commands."
+    ]
+  },
+  {
+    "Name": "Animal Summoning III",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "6"
+      }
+    ],
+    "Range": "30 feet",
+    "Duration": "4 hours",
+    "Description": [
+      "The Druid summons forth normal animals to serve as allies: 4 creatures larger than a man (such as an elephant), 12 animals the size of a man or horse (such as a lion), or 24 animals smaller than a man (such as wolves). The animals obey the caster’s commands."
+    ]
+  },
+  {
+    "Name": "Animate Dead",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "5"
+      }
+    ],
+    "Range": "Referee’s Discretion",
+    "Duration": "Permanent",
+    "Description": [
+      "This spell animates skeletons or zombies from dead bodies. 1d6 undead are animated per level of the caster above 8th. The corpses remain animated until slain."
+    ]
+  },
+  {
+    "Name": "Animate Object",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "6"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "1 hour",
+    "Description": [
+      "The Cleric “brings to life” inanimate objects such as statues, chairs, carpets, and tables. The objects follow the Cleric’s commands, attacking foes or performing other actions on the caster’s behalf. The Referee must determine the combat attributes of the objects (such as armor class, speed, hit dice, and to-hit bonuses) on the spur of the moment. A stone statue, as a basic example, might have AC of 1 [18], attack as a creature with 7-9 HD, and inflict 2d8 points of damage. Wooden furniture would be considerably less dangerous."
+    ]
+  },
+  {
+    "Name": "Animate Rock",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "7"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "1 hour",
+    "Description": [
+      "The caster brings rock to life, perhaps by calling a spirit into it, or perhaps by some other means related to the druidic affinity for stone and the elements. The mass of rock, whether or not shaped into an object, moves and attacks of its own volition. The druid has roughly a 50% +2% per level chance to be able to bring the object under control; otherwise it will act somewhat randomly, having little or no independent intelligence. The quantity of rock that can be animated is a function of the druid’s power and is about 2-3 cubic feet per level. If the animated rock is a statue, it will move at a speed appropriate to whatever the statue depicts (a wolf statue, for example, moving faster than the statue of a man). A formless mass of rock will have a movement rate of 3."
+    ]
+  },
+  {
+    "Name": "Anti-Animal Ward",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "6"
+      }
+    ],
+    "Range": "Caster",
+    "Duration": "2 hours",
+    "Description": [
+      "The caster is surrounded by a magical barrier that prevents any sort of normal or giant animal (but not magical beasts such as a manticore or griffon) from reaching through or attacking. The spell has a radius of 10 feet. If anyone within the magical warding casts an attack spell or makes a physical attack, the barrier instantly evaporates."
+    ]
+  },
+  {
+    "Name": "Anti-Magic Shell",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "6"
+      }
+    ],
+    "Range": "Caster",
+    "Duration": "2 hours",
+    "Description": [
+      "An invisible bubble of force surrounds the caster, impenetrable to magic. Spells and other magical effects cannot pass into or out of the shell. The shell is ten feet in radius."
+    ]
+  },
+  {
+    "Name": "Anti-Plant Ward",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "5"
+      }
+    ],
+    "Range": "Caster",
+    "Duration": "2 hours",
+    "Description": [
+      "The caster is surrounded by a magical barrier which prevents any sort of plant, magical or not, from reaching through or attacking. The shell has a radius of ten feet. If anyone within the magical warding casts an attack spell or makes a physical attack, the barrier will instantly evaporate."
+    ]
+  },
+  {
+    "Name": "Astral Spell",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "9"
+      }
+    ],
+    "Range": "100 miles (above ground), 100 yards (below ground)",
+    "Duration": "2 hours",
+    "Description": [
+      "The caster projects his or her astral form into other places; the astral form is invisible to all creatures but those also traveling the astral plane of existence. The spell has a duration of two hours. If the caster’s physical body is moved more than 100 miles from its original location while the astral form is away, the link is sundered and the caster’s soul becomes lost in the beyond. (If the caster’s body is underground, it need only be moved 100 yards before the connection is broken.)",
+      "The astral form is capable of casting spells, but there is a 5% chance per spell level that the spell will fail. Additionally, there is a 2% chance per spell level of the attempted spell that the astral spell itself will falter as a result of the spell casting, and the astral form will return to the physical body. When traveling in astral form upon the earth, the astral form may travel as fast as 100 miles per hour per level above 18th. If the form is traveling underground, its top speed is much slower: 120 feet per 10-minute turn. When traveling into the deeper regions beyond the earth, speed and distance are obviously not measured in miles."
+    ]
+  },
+  {
+    "Name": "Blade Barrier",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "6"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "12 turns",
+    "Description": [
+      "Mystical blades, whirling and thrusting, form a lethal circle around the spell’s recipient, at a radius of 15 feet. The barrier inflicts 7d10 points of damage to anyone trying to pass through."
+    ]
+  },
+  {
+    "Name": "Bless",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "2"
+      }
+    ],
+    "Range": "Only upon a character not in combat.",
+    "Duration": "1 hour (6 turns)",
+    "Description": [
+      "This spell grants its recipient a +1 to attack rolls (and improves morale, if the recipient is not a player character). The recipient cannot already be in combat when the spell is cast."
+    ]
+  },
+  {
+    "Name": "Call Lightning",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "3"
+      }
+    ],
+    "Range": "1000 feet",
+    "Duration": "One hour",
+    "Description": [
+      "This spell of colossal power may only be used outdoors, and even then only when a storm is present or immediately imminent. Under such conditions, the caster may tap into and unleash the power of the storm itself, calling forth bolts of lightning from the sky at intervals of no less than ten minutes in between. The lightning blasts straight downward from the heavens, inflicting damage of 8d6 hp + 1 hp/level."
+    ]
+  },
+  {
+    "Name": "Charm Monster",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "4"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "See below",
+    "Description": [
+      "This spell operates in the same manner as Charm Person, but can affect any one living creature, including powerful monsters. For monsters of fewer than 3 hit dice, up to 3d6 can be affected. Monsters can break free of the charm, (one chance per week) based on their hit dice (as shown on the following table)."
+    ],
+    "table": "<table class=\"table-auto\" cellspacing=\"0\" cellpadding=\"5\"> \n          <tbody> \n           <tr> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Hit Dice</th> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Chance to Break Charm<sup>1</sup></th> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Fewer than 2</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">5%</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">2-4</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">10%</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">5-7</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">20%</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">8-10</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">40%</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">11+</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">80%</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" colspan=\"2\"><sup>1</sup><i> Per week</i></td> \n           </tr> \n          </tbody> \n         </table>"
+  },
+  {
+    "Name": "Charm Person",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "1"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "Until dispelled",
+    "Description": [
+      "This spell affects living bipeds of human size or smaller, such as goblins or dryads. If the spell succeeds (saving throw allowed), the unfortunate creature falls under the caster’s influence."
+    ]
+  },
+  {
+    "Name": "Charm Plants",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "7"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "Until dispelled",
+    "Description": [
+      "If the plant fails a saving throw (and it need not be intelligent), it will obey the caster to the extent of its ability. The spell affects one large tree, six man-sized plants, twelve plants three feet tall, or twenty-four flower-sized plants."
+    ]
+  },
+  {
+    "Name": "Clairaudience",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "2 hours",
+    "Description": [
+      "Clairaudience allows the caster to hear through solid stone (limiting range to 2 feet or so) and other obstacles, any sounds within a range of 60 feet. The spell’s effect cannot pass through even a thin sheeting of lead, however, for this metal blocks it utterly. The spell can be cast through a crystal ball."
+    ]
+  },
+  {
+    "Name": "Clairvoyance",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "2 hours",
+    "Description": [
+      "Clairvoyance allows the caster to see through solid stone (limiting range to 2 feet or so) and other obstacles, anything within a range of 60 feet. The spell’s effect cannot pass through even a thin sheeting of lead, however, for this metal blocks it completely."
+    ]
+  },
+  {
+    "Name": "Clone",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "8"
+      }
+    ],
+    "Range": "Close",
+    "Duration": "Permanent",
+    "Description": [
+      "By this eerie and disturbing spell, a piece of flesh, taken from a living person, is grown into an exact duplicate of the person at the time the flesh was removed. (Whether this requires a laboratory and how much time is needed to regrow the clone depend upon the spell formula and the Referee’s discretion.) If a clone is created while its parent-creature still lives, the clone will seek to kill its original. If it fails to achieve this goal, both the clone and the original will become insane."
+    ]
+  },
+  {
+    "Name": "Cloudkill",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "5"
+      }
+    ],
+    "Range": "Moves 6 feet per minute",
+    "Duration": "1 hour",
+    "Description": [
+      "Foul and poisonous vapors boil from the thin air, forming a cloud 15 feet in radius. The cloud moves directly forward at a rate of 6 feet per minute unless its direction or speed is affected by winds. Unusually strong gusts can dissipate and destroy the cloud. Poison-laden, the horrid mist is heavier than air, and thus sinks down any pits or stairs in its path. For any creature with fewer than 5HD, touching the cloud (much less breathing it) requires a saving throw to avoid immediate death."
+    ]
+  },
+  {
+    "Name": "Commune",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "5"
+      }
+    ],
+    "Range": "Caster",
+    "Duration": "3 questions",
+    "Description": [
+      "Higher powers grant an answer to three questions the caster poses to them. Higher powers do not like being constantly interrogated by mere mortals, so use of the spell should be limited to once per week or so by the Referee."
+    ]
+  },
+  {
+    "Name": "Commune with Nature",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "5"
+      }
+    ],
+    "Range": "Caster",
+    "Duration": "3 questions",
+    "Description": [
+      "The powers of land, sky, and nature grant an answer to three questions the caster poses to them. The spell cannot be used while underground or within a building; a fourth question may be asked if the caster is in a druidic holy place. The powers of nature can only respond to questions that are within their knowledge and purview. It is inadvisable to use the spell more than once per week."
+    ]
+  },
+  {
+    "Name": "Confusion",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "7"
+      },
+      {
+        "className": "Magic-User",
+        "level": "4"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "2 hours",
+    "Description": [
+      "This spell confuses people and monsters, making them act randomly. On A roll of 2d6, the creatures will do the following:"
+    ],
+    "table": "<table class=\"table-auto\" cellspacing=\"0\" cellpadding=\"5\"> \n          <tbody> \n           <tr> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Die Roll</th> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Reaction</th> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">2-5</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Attack caster &amp; his allies</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">6-8</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Stand baffled and inactive</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">9-12</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Attack each other</td> \n           </tr> \n          </tbody> \n         </table>"
+  },
+  {
+    "Name": "Conjuration of Animals",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "6"
+      }
+    ],
+    "Range": "30 feet",
+    "Duration": "1 hour",
+    "Description": [
+      "The Cleric conjures up normal animals to serve as allies: 1 creature larger than a man (such as an elephant), 3 animals the size of a man or horse (such as a lion), or 6 animals smaller than a man (such as a wolf). The animals obey the caster’s commands."
+    ]
+  },
+  {
+    "Name": "Conjuration of Demons",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "7"
+      }
+    ],
+    "Range": "10 feet",
+    "Duration": "Referee’s discretion",
+    "Description": [
+      "This spell summons a demon or other fiend (such as a devil) from the lower planes of existence. The spell provides no protection whatsoever against the wrath of the summoned creature, and the Magic-User should be versed in the lore of pentacles and other magical means of hedging out demons. Gaining the demon’s assistance is beyond the spell’s power, coming down to a matter of negotiations and threats between the caster and the fiend."
+    ]
+  },
+  {
+    "Name": "Conjuration of Earth Elementals",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "7"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "Until dispelled or concentration ceases",
+    "Description": [
+      "This spell summons forth a 16 HD earth elemental and binds it to follow the caster’s commands. The elemental obeys the caster only for as long as the caster concentrates on maintaining control over it. Unlike the Magic-User spell for conjuring elementals (Conjuration of Elementals) this spell summons a willing ally from the elemental planes rather than a hostile slave. The elemental will not stay longer than the caster concentrates upon it, but it will not seek to attack a druidic summoner once this binding is released. The spell is powerful enough not to risk the random consequences of the sixth level Druid spell Conjuration of Fire Elementals, or perhaps it is simply that the magic of stone is less mercurial than the magic of fire."
+    ]
+  },
+  {
+    "Name": "Conjuration of Elementals",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "5"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "Until dispelled or slain",
+    "Description": [
+      "The caster summons a 16 HD elemental (any kind) from the elemental planes of existence, and binds it to follow commands. The elemental obeys the caster only for as long as the caster concentrates on it; and when the caster ceases to concentrate, even for a moment, the elemental is released and will attack its former master."
+    ]
+  },
+  {
+    "Name": "Conjuration of Fire Elementals",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "6"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "Until dispelled or concentration ceases",
+    "Description": [
+      "The caster summons a 16 HD fire elemental from the elemental planes of existence, and binds it to obey the character’s commands. The elemental obeys the caster only for as long as the caster concentrates on it. Unlike the Magic-User spell for conjuring elementals (Conjuration of Elementals) this spell summons a willing ally from the elemental planes rather than a hostile slave. The elemental will not stay longer than the caster concentrates upon it, but it will not seek to attack a druidic summoner. There is, however, a 5% chance that the spell will summon forth powers unintended by the druid. If this happens, one of two things will occur, with a 50% chance of each. The spell might summon forth a truly great elemental force, an elemental with 20 HD. However, there is also the chance that the spell will summon forth an efreeti. The efreet do not have the same rapport with Druids as the pure elementals do, and an efreeti, unlike elementals, will attack the caster when the Druid’s concentration falters."
+    ]
+  },
+  {
+    "Name": "Contact Other Plane",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "5"
+      }
+    ],
+    "Range": "None",
+    "Duration": "Number of “Yes/No” questions",
+    "Description": [
+      "The caster creates a mental contact with the planes, forces, powers, and geometries of the beyond, in order to gain affirmative or negative answers to the questions he contemplates. The spell’s effects depend upon how deeply into the caster quests into the various planes of existence. The caster must decide how “far” into the planes of existence he wishes to make contact. The number of planes in “depth” that he chooses will affect the number of yes or no questions he can ask, the chance that the knowledge is available at that level, the chance of receiving a wrong answer, and the chance that he will become temporarily insane from the experience. Temporary insanity lasts for as many weeks as the “number” of the plane where the caster’s sanity failed (or was deliberately removed)."
+    ],
+    "table": "<table class=\"table-auto\" cellspacing=\"0\" cellpadding=\"5\"> \n          <tbody> \n           <tr> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Plane of Existence</th> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Max. # Questions</th> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Available Knowledge</th> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Wrong Result</th> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Temporary Insanity<sup>1</sup></th> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">3rd</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">3</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">25</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">70%</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1%</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">4th</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">4</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">30</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">60%</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">10%</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">5th</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">5</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">40</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">50%</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">20%</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">6th</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">6</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">50</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">40%</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">30%</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">7th</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">7</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">60</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">30%</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">40%</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">8th</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">8</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">70</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">25%</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">45%</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">9th</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">9</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">80</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">20%</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">55%</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">10th</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">10</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">85</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">15%</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">65%</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">11th</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">11</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">90</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">10%</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">75%</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">12th</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">12</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">95</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1%</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">85%</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" colspan=\"5\"><sup>1</sup> <i>This is reduced by 5% for every level above 11th</i></td> \n           </tr> \n          </tbody> \n         </table>"
+  },
+  {
+    "Name": "Continual light",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "2"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "Permanent until dispelled",
+    "Description": [
+      "The targeted person or object produces light as bright as sunlight (and with the same effects as sunlight), to a radius of 120 feet."
+    ]
+  },
+  {
+    "Name": "Control Temperature, 10-foot radius",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "4"
+      }
+    ],
+    "Range": "Touched sprig of mistletoe",
+    "Duration": "3 turns + 1 turn/level",
+    "Description": [
+      "The caster may raise or lower the temperature by 50 degrees (hotter or colder) in a 10-foot radius around the material component, a sprig of mistletoe."
+    ]
+  },
+  {
+    "Name": "Control Weather",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "7"
+      },
+      {
+        "className": "Druid",
+        "level": "7"
+      },
+      {
+        "className": "Magic-User",
+        "level": "6"
+      }
+    ],
+    "Range": "Referee’s discretion",
+    "Duration": "Referee’s discretion",
+    "Description": [
+      "The caster can summon or stop rainfall, create unusually high or low temperatures, summon or disperse a tornado, clear the sky of clouds, or summon clouds into being."
+    ]
+  },
+  {
+    "Name": "Control Winds",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "5"
+      }
+    ],
+    "Range": "Centered on caster",
+    "Duration": "6 turns + 1 turn/level",
+    "Description": [
+      "Within a radius of 240 feet, the caster controls the winds. It is possible to make the air completely still, or to whisk it into a gale-like tumult of unbelievable ferocity."
+    ]
+  },
+  {
+    "Name": "Create Water",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "4"
+      },
+      {
+        "className": "Druid 2nd Level"
+      }
+    ],
+    "Range": "Close",
+    "Duration": "Immediate",
+    "Description": [
+      "This spell creates a one-day supply of drinking water for 24 men (or, for game purposes, horses). At 9th level the amount of water doubles, and it doubles again at every level thereafter."
+    ]
+  },
+  {
+    "Name": "Create Food",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "5"
+      }
+    ],
+    "Range": "Close",
+    "Duration": "Immediate",
+    "Description": [
+      "This spell creates a one-day supply of food for 24 humans (or the like). At 9th level the amount of food doubles, and it doubles again at every level thereafter."
+    ]
+  },
+  {
+    "Name": "Creeping Doom",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "7"
+      }
+    ],
+    "Range": "50 feet",
+    "Duration": "See below",
+    "Description": [
+      "Spiders, centipedes, and other such vermin boil forth from the ground, assembling into a coherent swarm within 1d3 rounds (1-3 minutes). The caster may direct the swarm in any direction, or toward a particular target within 60 feet of the swarm’s location. It will march in that direction and attack anything in its path, pursuing a particular target up to a distance of 240 feet from the caster. The swarm is composed of 1d10 x100 creatures, each of which inflicts one point of damage and then dies. (A swarm of 100 will inflict a total of 100 hp before being “used up”, and a swarm of 1000 would eventually inflict a total of 1000 hp in damage if it came across enough victims.)"
+    ]
+  },
+  {
+    "Name": "Cure Disease",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "3"
+      }
+    ],
+    "Range": "Touch",
+    "Duration": "Immediate",
+    "Description": [
+      "Cures the spell’s recipient of any diseases, including magically inflicted ones. An evil reversal of this spell allows a Chaotically aligned Cleric to cause disease."
+    ]
+  },
+  {
+    "Name": "Cure Light Wounds",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "1"
+      },
+      {
+        "className": "Druid 2nd"
+      }
+    ],
+    "Range": "Touch",
+    "Duration": "Immediate",
+    "Description": [
+      "Cures 1d6+1 hit points of damage. An evil reversal of this spell allows a Chaotically aligned Cleric to cause light wounds rather than curing them."
+    ]
+  },
+  {
+    "Name": "Cure Serious Wounds",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "4"
+      },
+      {
+        "className": "Druid",
+        "level": "4"
+      }
+    ],
+    "Range": "Touch",
+    "Duration": "Immediate",
+    "Description": [
+      "Cures 2d6+2 hit points of damage. An evil reversal of this spell allows a Chaotically aligned Cleric to cause serious wounds."
+    ]
+  },
+  {
+    "Name": "Darkness 15-foot Radius",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "2"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "1 hour",
+    "Description": [
+      "Darkness falls within the spell’s radius, impenetrable even to darkvision. A Light spell or Dispel Magic can be used to counteract the darkness."
+    ]
+  },
+  {
+    "Name": "Darkvision",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "40 feet",
+    "Duration": "1 day",
+    "Description": [
+      "The recipient of the spell can see in total darkness for the length of the spell’s duration."
+    ]
+  },
+  {
+    "Name": "Death Spell",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "6"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "Causes normal death",
+    "Description": [
+      "Within a 60-foot radius, up to 2d8 creatures, with fewer than 7 hit dice each, perish."
+    ]
+  },
+  {
+    "Name": "Delayed Blast Fireball",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "7"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "Chosen by caster (up to 10 minutes)",
+    "Description": [
+      "This spell creates a normal fireball, but the blast can be delayed for a period of up to 10 minutes. The burst radius, per a normal fireball, is 20 feet, and damage is 1d6 per level of the caster. The blast shapes itself to the available volume (33,000 cubic feet), filling 33 10-foot x 10-foot x 10-foot cubical areas."
+    ]
+  },
+  {
+    "Name": "Detect Evil (Cleric)",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "1"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "1 hour",
+    "Description": [
+      "The caster detects any evil enchantments, evil intentions, evil thoughts, or evil auras within the spell’s range. Poison is not inherently evil and cannot be detected by means of this spell. Whether there is any distinction between “evil” and “Chaos” is left to the Referee; in most campaigns they are exactly the same."
+    ]
+  },
+  {
+    "Name": "Detect Evil (Magic-User)",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "2"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "20 minutes",
+    "Description": [
+      "The caster detects any evil enchantments, evil intentions, evil thoughts, or evil auras within the spell’s range. Poison is not inherently evil and cannot be detected by means of this spell. Whether there is any meaningful distinction between “evil” and “Chaos” is left to the Referee; in most campaigns they are exactly the same."
+    ]
+  },
+  {
+    "Name": "Detect Invisibility",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "2"
+      }
+    ],
+    "Range": "10 feet per caster level",
+    "Duration": "1 hour",
+    "Description": [
+      "The caster can perceive invisible objects and creatures, even those lurking in the Astral or Ethereal planes of existence."
+    ]
+  },
+  {
+    "Name": "Detect Magic",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": 1
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "20 minutes",
+    "Description": [
+      "The caster can perceive, in places, people, or things, the presence of a magical spell or enchantment. For example, magical items may be discovered in this fashion, as can the presence of a charm secretly laid upon a person."
+    ]
+  },
+  {
+    "Name": "Detect Snares and Pits",
+    "learnedBy": [
+      {
+        "className": "Druid 1st Level",
+        "level": 1
+      }
+    ],
+    "Range": "30 feet",
+    "Duration": "1 hour + 10 min/level",
+    "Description": [
+      "Much like the Clerical Find Traps spell, this spell grants the caster a mystical power of sight, revealing any traps. However, the spell only functions outdoors; it is useless inside buildings or in dungeons."
+    ]
+  },
+  {
+    "Name": "Dimension Door",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "4"
+      }
+    ],
+    "Range": "10 feet (360-foot teleport distance)",
+    "Duration": "1 hour",
+    "Description": [
+      "Dimension Door is a weak form of teleportation, a spell that can be managed by lesser magicians who cannot yet manage the Teleport spell. The caster can teleport himself, an object, or another person, with perfect accuracy to the stated location, as long as it is within the spell’s range."
+    ]
+  },
+  {
+    "Name": "Disintegrate",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "6"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "Permanent-cannot be dispelled",
+    "Description": [
+      "The caster defines one specific target such as a door, a peasant, or a statue, and it disintegrates into dust. Magical materials are not disintegrated, and living creatures (such as the aforementioned peasant) are permitted a saving throw."
+    ]
+  },
+  {
+    "Name": "Dispel Evil",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "5"
+      }
+    ],
+    "Range": "30 feet",
+    "Duration": "10 minutes against an item",
+    "Description": [
+      "This spell is similar to the Magic-User spell Dispel Magic, but affects only evil magic. Also unlike the Dispel Magic spell, Dispel Evil functions (temporarily) against evil “sendings”, possibly including dreams or supernatural hunting-beasts. The power of an evil magic item is held in abeyance for 10 minutes rather than being permanently dispelled. Evil spells are completely destroyed. As with Dispel Magic, the chance of successfully dispelling evil is a percentage based on the ratio of the level of the dispelling caster over the level of original caster (or HD of the monster). Thus, a 9th-level Cleric attempting to dispel an evil charm cast by a 12th-level Cleric has a 75% chance of success (9/12 = .75, or 75%). If the 12th-level Cleric was dispelling the 9th-level Cleric’s charm, success would be certain (12/9 = 1.33, or 133%)."
+    ]
+  },
+  {
+    "Name": "Dispel Magic",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "4"
+      },
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "10 minutes against an item",
+    "Description": [
+      "Dispel Magic, although not powerful enough to permanently disenchant a magic item (nullifies for 10 minutes), can be used to completely dispel most other spells and enchantments.",
+      "The chance of successfully dispelling magic is a percentage based on the ratio of the level of the dispelling caster over the level of original caster (or HD of the monster). Thus, a 6th-level Magic-User attempting to dispel a charm cast by a 12th-level Magic-User has a 50% chance of success (6/12 = .50, or 50%). If the 12th-level Magic-User was dispelling the 6th-level Magic-User’s charm, success would be certain (12/6 = 2.00, or 200%)."
+    ]
+  },
+  {
+    "Name": "Earthquake",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "7"
+      }
+    ],
+    "Range": "Referee’s discretion",
+    "Duration": "Immediate",
+    "Description": [
+      "The Cleric causes a powerful earthquake in an area 60×60 feet plus an additional 10 feet (in both length and width) per three levels above 17th. The quake topples walls, causes rock slides, and opens gaping fissures in the earth. Any creature caught in the quake has a 1 in 6 chance of falling into the depths of the earth and being killed. The earthquake’s tremors do not extend in any way beyond the spell’s area of effect."
+    ]
+  },
+  {
+    "Name": "Enchant Item",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "6"
+      }
+    ],
+    "Range": "Touch",
+    "Duration": "Permanent",
+    "Description": [
+      "This spell is used in the creation of a magical item, in addition to whatever research, special ingredients, or other efforts the Referee may determine are necessary for the task."
+    ]
+  },
+  {
+    "Name": "Esp (Detect Thoughts)",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "2"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "2 hours",
+    "Description": [
+      "The caster can detect the thoughts of other beings at a distance of 60 feet. The spell cannot penetrate more than two feet of stone, and is blocked by even a thin sheet of lead."
+    ]
+  },
+  {
+    "Name": "Explosive Runes",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "Written on parchment",
+    "Duration": "Permanent",
+    "Description": [
+      "The Magic-User scribes a rune onto parchment, vellum, or paper as a deadly trap. If anyone other than the caster reads the rune, the sigil explodes into fire, automatically dealing 4d6 points of damage to anyone directly in front of it. The parchment or book upon which the rune was scribed will also be destroyed. An explosive rune can be detected, bypassed, and even removed by a higher-level Magic-User. Any Magic-User at least two levels higher than the rune’s creator has a 60% chance to detect it, a 75% chance to bypass it (if it is detected), and a 100% chance to remove it (if it is successfully detected and bypassed)."
+    ]
+  },
+  {
+    "Name": "Extension I",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "4"
+      }
+    ],
+    "Range": "Caster",
+    "Duration": "See below",
+    "Description": [
+      "Extension I lengthens the duration of another of the caster’s spells by 50%. Only spells of levels 1-3 can be affected by Extension I."
+    ]
+  },
+  {
+    "Name": "Extension II",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "5"
+      }
+    ],
+    "Range": "Caster",
+    "Duration": "See below",
+    "Description": [
+      "Extension II lengthens the duration of another of the caster’s spells by 50%. Only spells of levels 1-4 can be affected by Extension II."
+    ]
+  },
+  {
+    "Name": "Extension III",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "6"
+      }
+    ],
+    "Range": "Caster",
+    "Duration": "See below",
+    "Description": [
+      "Extension III doubles the duration of another of the caster’s spells. Spells of level 1-5 can be affected by Extension III."
+    ]
+  },
+  {
+    "Name": "Faerie Fire",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "1"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "1 hour",
+    "Description": [
+      "This spell illumines an object or creature with an eerie, fey glow. The spell’s target may be approximately as large as 10 square feet, plus 2 square feet per level of the caster. The spell can be used for diverse purposes, such as revealing the true dimensions or extent of a thing, or to prevent a creature from retreating into the darkness. Depending upon the precise circumstances, the Referee may allow such illumination to render a creature more easily hit, granting a +1 to-hit bonus to attackers."
+    ]
+  },
+  {
+    "Name": "Fear",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "4"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "1 hour",
+    "Description": [
+      "This spell causes the creatures in its cone-shaped path to flee in horror if they fail a saving throw. If they do so, there is a 60% chance that they will drop whatever they are holding. The cone extends 240 feet to a base 120 feet across."
+    ]
+  },
+  {
+    "Name": "Feeblemind",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "6"
+      },
+      {
+        "className": "Magic-User",
+        "level": "5"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "Permanent until dispelled",
+    "Description": [
+      "Feeblemind is a spell that affects only Magic-Users. The saving throw against the spell is made at a -4 penalty, and if the saving throw fails, the targeted Magic-User becomes feeble of mind until the magic is dispelled."
+    ]
+  },
+  {
+    "Name": "Find the Path",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "6"
+      }
+    ],
+    "Range": "Caster",
+    "Duration": "1 hour +10 minutes/level; 1 day outdoors",
+    "Description": [
+      "The caster perceives the fastest way out of an area, even if the area is designed to be difficult to navigate, such as a labyrinth. Outdoors the spell has greater power, lasting a full day."
+    ]
+  },
+  {
+    "Name": "Find Traps",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "2"
+      }
+    ],
+    "Range": "30 feet",
+    "Duration": "20 minutes (2 turns)",
+    "Description": [
+      "The caster can perceive both magical and non-magical traps at a distance of 30 feet."
+    ]
+  },
+  {
+    "Name": "Finger of Death",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "5"
+      },
+      {
+        "className": "Druid",
+        "level": "6"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "Immediate",
+    "Description": [
+      "This spell kills a single creature (saving throw applies). Misusing the spell is an evil act that will likely invoke divine retribution of some kind."
+    ]
+  },
+  {
+    "Name": "Fire Storm",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "7"
+      }
+    ],
+    "Range": "100 feet + 10 feet/level",
+    "Duration": "1 turn (10 minutes)",
+    "Description": [
+      "A massive conflagration of fire erupts in the spot directed by the caster. The fire burns in a shape, area, and size defined by the caster, the volume being no less than 30 feet x 30 feet x 30 feet. The maximum possible volume of fire that can be called forth is the minimum area (30x30x30) times the caster’s level. While the magical fire burns, creatures with 3 or fewer hit dice cannot pass through it, and no creature can see through it to the other side. Creatures who are able to pass through the fire receive 1d6 hit points of damage per ten feet traveled (no saving throw) and undead creatures sustain twice this damage."
+    ]
+  },
+  {
+    "Name": "Fireball",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "Instantaneous",
+    "Description": [
+      "A bead-like missile shoots from the caster’s finger, to explode, at the targeted location, in a furnace-like blast of fire. The burst radius is 20 feet, and damage is 1d6 per level of the caster. The blast fills 33,000 cubic feet (33 ten-foot x ten-foot x ten-foot cubical areas) but shapes itself to the available volume. A successful saving throw means that the target takes only half damage."
+    ]
+  },
+  {
+    "Name": "Fly",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "Touch",
+    "Duration": "1 turn/level + 1d6 turns",
+    "Description": [
+      "This spell imbues the Magic-User with the power of flight, with a movement rate of 120 feet per round. The Referee secretly rolls the 1d6 additional turns; the player does not know exactly how long the power of flight will last."
+    ]
+  },
+  {
+    "Name": "Gate",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "9"
+      }
+    ],
+    "Range": "Near the caster",
+    "Duration": "See below",
+    "Description": [
+      "A Gates pell creates an opening to another plane of existence and summons forth a specified, tremendously powerful being from the other plane, including gods, demi-gods, demons, etc. The caster must know the name of the creature being summoned or the spell will fail. There is a 5% chance that the wrong being might be summoned forth, and (regardless whether the summoned being is the right one or not) there is a 5% chance that it will lack interest in the situation and return through the gate. The summoned being is not necessarily friendly to the caster, and may even be extremely annoyed."
+    ]
+  },
+  {
+    "Name": "Geas",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "6"
+      }
+    ],
+    "Range": "30 feet",
+    "Duration": "Until task is completed",
+    "Description": [
+      "If the spell succeeds (saving throw cancels), the caster may set a task for the spell’s victim. If the victim does not diligently work at performing the task, the refusal will cause weakness (50% reduction in strength), and trying to ignore the geas eventually causes death."
+    ]
+  },
+  {
+    "Name": "Hallucinatory Forest",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "4"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "Until dispelled",
+    "Description": [
+      "Much like the Magic-User spell Hallucinatory Terrain, this spell changes the appearance of the land, although the illusion is always that of a forest. Druids and magical creatures of the forest such as a dryad or treant will not be fooled by the illusion, but until the dweomer is dispelled all other creatures will perceive the area to be forested. The maximum extent of the nonexistent forest, measured for convenience in 30-foot x 30-foot ‘squares,’ is one such square per level of the caster."
+    ]
+  },
+  {
+    "Name": "Hallucinatory Terrain",
+    "learnedBy": [
+      {
+        "className": "Magic-User. 4th Level",
+        "level": 4
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "Until touched (other than by ally) or dispelled",
+    "Description": [
+      "This spell changes the appearance of the terrain into the semblance of what the caster desires. A hill can be made to disappear, or it could be replaced with an illusory forest, for example."
+    ]
+  },
+  {
+    "Name": "Haste",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "30 minutes",
+    "Description": [
+      "In an area with a radius of 60 feet around the point where the spell is targeted, as many as 24 creatures become able to move and attack at double normal speed."
+    ]
+  },
+  {
+    "Name": "Heat Metal",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "2"
+      }
+    ],
+    "Range": "30 feet",
+    "Duration": "7 rounds",
+    "Description": [
+      "This spell heats metal to searing hot temperatures, affecting 20 pounds of metal per level of the caster. As a rule of thumb, this magic affects the armor and weapons of one opponent per caster level when used as a general attack, although the spell is definitely not limited to general combat. Metal does not get a saving throw against being heated, but any sort of magical fire resistance prevents damage from the heat itself.",
+      "Effect of continuous exposure to heated metal:",
+      "Round 1: The metal becomes hot, but is not yet dangerous. Round 2: 1d4 points of damage. If hands are what remain in contact, the blistering makes them unusable for 1 day thereafter. Rounds 3-5: 1d4+1 points of damage per round. If hands remain in contact, their skin is so badly scorched that they cannot be used for 1d3 weeks. If the head is in contact, the victim falls unconscious for 1d8 turns. Round 6: 1d4 points of damage. Round 7: The metal has begun to cool, and is merely hot to the touch."
+    ]
+  },
+  {
+    "Name": "Hold Animal",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "3"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "1 hour (+10 minutes/level)",
+    "Description": [
+      "The caster targets no more than four normal or giant animals, with total hit dice equal to or less than those of the Druid. These animals are completely immobilized (saving throw applies). If the caster targets a single creature, the saving throw is made with a penalty of -2."
+    ]
+  },
+  {
+    "Name": "Hold Monster",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "5"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "1 hour (+10 minutes/level)",
+    "Description": [
+      "The caster targets 1d4 creatures, which are completely immobilized (saving throw applies). The caster may also target a single creature, in which case the saving throw is made with a penalty of -2."
+    ]
+  },
+  {
+    "Name": "Hold Plant",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "5"
+      }
+    ],
+    "Range": "30 feet/level",
+    "Duration": "1 hour (+10 minutes/level)",
+    "Description": [
+      "The caster targets 1d4 plants or plant-creatures, which become completely immobilized. (A saving throw applies for monster-type plants.) The caster may also target a single plant, in which case the saving throw is made with a penalty of -2. The spell does not only immobilize plants; it will also temporarily arrest the growth of any plant, magical or not."
+    ]
+  },
+  {
+    "Name": "Hold Person (Cleric)",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "2"
+      }
+    ],
+    "Range": "180 feet",
+    "Duration": "9 turns",
+    "Description": [
+      "The caster targets 1d4 persons (according to the same parameters as the Charm Person spell), who are completely immobilized (saving throw applies). The caster may also target a single person, in which case the saving throw is made with a penalty of -2."
+    ]
+  },
+  {
+    "Name": "Hold Person (Magic-User)",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "1 hour (+10 minutes/level)",
+    "Description": [
+      "The caster targets 1d4 persons (according to the same parameters as the Charm Person spell), who are completely immobilized (saving throw applies). The caster may also target a single person, in which case the saving throw is made with a penalty of -2."
+    ]
+  },
+  {
+    "Name": "Hold Portal",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "1"
+      }
+    ],
+    "Range": "Referee’s Discretion",
+    "Duration": "2d6 turns",
+    "Description": [
+      "This spell holds a door closed for the spell’s duration or until dispelled. Creatures with magic resistance can shatter the spell without effort."
+    ]
+  },
+  {
+    "Name": "Holy Word",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "7"
+      }
+    ],
+    "Range": "40-foot radius",
+    "Duration": "Immediate",
+    "Description": [
+      "The speaking of a Holy Word dramatically affects all those within the range of its divine power. Creatures of fewer than 5 hit dice are slain, creatures of 5-8 hit dice are stunned for 2d10 turns, and creatures with 9-12 hit dice are deafened for 1d6 turns. Creatures with 13+ hit dice are unaffected but probably impressed."
+    ]
+  },
+  {
+    "Name": "Ice Storm",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "4"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "1 round",
+    "Description": [
+      "A whirling vortex of ice, snow, and hail forms in a cube roughly 30 feet across. Massive hailstones inflict 3d10 hit points of damage (no saving throw applies) to all within the area."
+    ]
+  },
+  {
+    "Name": "Insect Plague",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "5"
+      },
+      {
+        "className": "Druid",
+        "level": "4"
+      }
+    ],
+    "Range": "480 feet",
+    "Duration": "1 day",
+    "Description": [
+      "This spell works only outdoors. A storm of insects gathers, and goes wherever the caster directs. The cloud covers approximately 400 square feet (20 feet by 20 feet, with roughly corresponding height). Any creature of 2 HD or fewer that is exposed to the cloud of insects flees in terror (no saving throw)."
+    ]
+  },
+  {
+    "Name": "Invisibility",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "2"
+      }
+    ],
+    "Range": "240 ft",
+    "Duration": "Until dispelled or an attack is made",
+    "Description": [
+      "The object of this spell, whether a person or a thing, becomes invisible to both normal sight and darkvision. The result is that an invisible creature cannot be attacked unless its approximate location is known, and all attacks are made at -4 to hit. If the invisible creature makes an attack, the spell is broken. Otherwise, it lasts until dispelled or removed by the caster."
+    ]
+  },
+  {
+    "Name": "Invisibility 10-Foot Radius",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "Until dispelled or an attack is made",
+    "Description": [
+      "Like the Invisibility spell, Invisibility 10-Foot Radius makes the target creature or object invisible to normal sight and darkvision. It also, however, throws a radius of invisibility around the recipient, which moves with him/her/it. Nothing inside the radius of invisibility can be attacked unless its approximate location is known, and all attacks are made at -4 to hit. If an invisible creature makes an attack, the spell is broken. Otherwise, it lasts until dispelled or removed by the caster."
+    ]
+  },
+  {
+    "Name": "Invisible Stalker",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "6"
+      }
+    ],
+    "Range": "Close",
+    "Duration": "Until mission is completed",
+    "Description": [
+      "This spell summons (or perhaps creates) an invisible stalker, an invisible being with 8 HD. (See the Monster section for more details.) The stalker will perform one task as commanded by the caster, regardless of how long the task may take or how far the stalker may have to travel. The stalker cannot be banished by means of Dispel Magic; it must be killed in order to deter it from its mission."
+    ]
+  },
+  {
+    "Name": "Knock",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "2"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "Immediate",
+    "Description": [
+      "This spell unlocks and unbars all doors, gates, and portals within its range, including those held or locked by normal magic."
+    ]
+  },
+  {
+    "Name": "Legend Lore",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "6"
+      }
+    ],
+    "Range": "Caster",
+    "Duration": "See below",
+    "Description": [
+      "Over the course of long and arduous magical efforts (1d100 days), the caster gains knowledge about some legendary person, place, or thing. The spell’s final result may be no more than a cryptic phrase or riddle, or it might be quite specific."
+    ]
+  },
+  {
+    "Name": "Levitate",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "2"
+      }
+    ],
+    "Range": "20 feet/level",
+    "Duration": "1 turn/level",
+    "Description": [
+      "This spell allows the Magic-User to levitate himself, moving vertically up or down, but the spell itself provides no assistance with lateral movement. A wall, cliff side, or ceiling could, of course, be used to pull along hand-over-hand. Levitation allows up- or downward movement at a rate of up to 6 feet per minute (60 feet per turn), and the caster cannot levitate more than 20 feet per level from the ground level where the spell was cast. (Such range is applied both to movement into the air and to downward movement into a pit or chasm.)"
+    ]
+  },
+  {
+    "Name": "Light",
+    "learnedBy": [
+      {
+        "className": "Cleric"
+      },
+      {
+        "className": "Magic-User",
+        "level": "1"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "1 hour (+10 minutes/level)",
+    "Description": [
+      "The target person or object (at a range of up to 60 feet) produces light about as bright as a torch, to a radius of 20 feet.",
+      "The Cleric version of this spell lasts 2 hours."
+    ]
+  },
+  {
+    "Name": "Lightning Bolt",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "240 feet (maximum distance)",
+    "Duration": "Instantaneous",
+    "Description": [
+      "A bolt of lighting extends 60 feet from the targeted point, almost ten feet wide. Anyone in its path suffers 1d6 points of damage per level of the caster (half with a successful saving throw). The bolt always extends 60 feet, even if this means that it ricochets backward from something that blocks its path."
+    ]
+  },
+  {
+    "Name": "Limited Wish",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "7"
+      }
+    ],
+    "Range": "Referee’s discretion",
+    "Duration": "Changes reality",
+    "Description": [
+      "This powerful spell allows the caster to change reality, although in limited ways and sometimes only for limited periods of time. Such limitations will determined by the Referee in accordance with the circumstances."
+    ]
+  },
+  {
+    "Name": "Locate Animal",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "1"
+      }
+    ],
+    "Range": "60 feet +10 feet/level",
+    "Duration": "1 round/level",
+    "Description": [
+      "Within the spell’s range, the caster perceives the correct direction (as the crow flies) toward the nearest specimen of a type of animal named in the casting of the spell."
+    ]
+  },
+  {
+    "Name": "Locate Object (Cleric)",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "3"
+      }
+    ],
+    "Range": "90 feet",
+    "Duration": "1 round/level",
+    "Description": [
+      "Within the spell’s range, the Cleric perceives the correct direction (as the crow flies) toward an object the caster specifies by description in the spell. The object must be something the caster has seen, although the spell can detect an object in a general class of items known to the caster: stairs, gold, etc."
+    ]
+  },
+  {
+    "Name": "Locate Object (Magic-User)",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "2"
+      }
+    ],
+    "Range": "60 feet +10 feet/level",
+    "Duration": "1 round/level",
+    "Description": [
+      "Within the spell’s range, the caster perceives the correct direction (as the crow flies) toward an object the caster specifies by description in the spell. The object must be something the caster has seen, although the spell can detect an object in a general class of items known to the caster: stairs, gold, etc."
+    ]
+  },
+  {
+    "Name": "Locate Plants",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "2"
+      }
+    ],
+    "Range": "60 feet (+10 feet/level)",
+    "Duration": "1 round/level",
+    "Description": [
+      "The caster perceives the correct direction (as the crow flies) toward the nearest specimen of a type of plant named in the casting of the spell."
+    ]
+  },
+  {
+    "Name": "Lower Water",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "6"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "2 hours",
+    "Description": [
+      "This spell lowers the depth and water level of lakes, rivers, wells, and other bodies of water to one-half normal."
+    ]
+  },
+  {
+    "Name": "Magic Jar",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "5"
+      }
+    ],
+    "Range": "See below",
+    "Duration": "See below",
+    "Description": [
+      "This spell relocates the caster’s life essence, intelligence, and soul into an object of virtually any kind. The ‘jar’ must be within 30 feet of the caster’s body for the transition to succeed. Once within the magic jar, the caster can possess the bodies of other creatures and people, provided that they are within 120 feet of the jar and fail a saving throw. The caster can return his or her soul to the magic jar at any time; if a body the caster controls is slain, the soul returns to the jar immediately. The Magic-User can return from the jar to his or her original body whenever desired, thus ending the spell. If the caster’s body is destroyed while his or her soul is in the magic jar, the soul no longer has a home other than within the magic jar, although the disembodied wizard can still possess other bodies as before. If the jar itself is destroyed while the Magic-User’s soul is within, the soul is lost."
+    ]
+  },
+  {
+    "Name": "Magic Missile",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "1"
+      }
+    ],
+    "Range": "150 feet",
+    "Duration": "Immediate",
+    "Description": [
+      "A magical missile flies where the caster directs, with a range of 150 feet. At the Referee’s discretion, this spell may have one of two effects: <ol style=\"list-style: decimal; margin-left: 2rem;\"><li>The Magic-User must roll to hit the target with a +1 bonus to the roll. The missile inflicts 1d6+1 points of damage.</li><li>The missile hits automatically, doing 1d4+1 points of damage.</li></ol><p>In either case, the Magic-User casts an additional two missiles for every 5 levels of experience. Thus, at 5th level, the caster is able to hurl 3 magic missiles, and 5 missiles at 10th level.</p>"
+    ]
+  },
+  {
+    "Name": "Magic Mouth",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "2"
+      }
+    ],
+    "Range": "Touch",
+    "Duration": "Permanent until triggered or dispelled",
+    "Description": [
+      "This enchantment is set upon an object, and the magic is triggered when certain conditions established by the caster are met. When that happens, a mouth appears on the object and speaks the message it has been commanded to speak. The message may be up to thirty words long."
+    ]
+  },
+  {
+    "Name": "Mass Charm",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "8"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "Until dispelled",
+    "Description": [
+      "This spell operates in the same manner and with the same restrictions as Charm Person. However, it affects a total of 30 HD of creatures, in any combination. All saving throws are made with a penalty of -2."
+    ]
+  },
+  {
+    "Name": "Mass Invisibility",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "7"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "See below",
+    "Description": [
+      "This spell makes 1d3 x 100 man- or horse-sized creatures (or objects) invisible, as if they had been affected by a single Invisibility spell. The spell can instead affect up to 6 creatures of dragon size. As with the Invisibility spell, the enchantment lasts until dispelled or until one of the creatures makes an attack."
+    ]
+  },
+  {
+    "Name": "Massmorph",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "4"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "Until negated by the caster or dispelled",
+    "Description": [
+      "One hundred or fewer man- or horse-sized creatures are changed to appear like innocent trees. The illusion is so perfect that creatures moving through the ‘forest’ will not detect the deception."
+    ]
+  },
+  {
+    "Name": "Maze",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "9"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "Depends on Intelligence",
+    "Description": [
+      "The targeted creature disappears into a gap in reality, where strange curving and branching passages conceal the way out. Creatures with an Intelligence score lower than 6 require 2d4 x3 rounds (minutes) to escape the interdimensional prison. Creatures with Intelligence scores 7-11 require 2d4 rounds, and creatures with an intelligence of 12+ require only 1d4 rounds to puzzle their way back into normal reality. Although monsters are not described with specific Intelligence scores, it should not be hard to determine into which category any specific monster falls. Unless ruled otherwise by the Referee, there is no saving throw to avoid the spell."
+    ]
+  },
+  {
+    "Name": "Meteor Swarm",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "9"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "Instantaneous",
+    "Description": [
+      "Tiny meteors swarm from the caster’s hands and explode into balls of fire where desired. The caster may hurl 4 normal fireballs for 10d6 damage or 8 fireballs of 10-foot diameter that inflict 5d6 points of damage. Targets are permitted a saving throw, allowing them to take half damage."
+    ]
+  },
+  {
+    "Name": "Mind Blank",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "8"
+      }
+    ],
+    "Range": "10-foot radius",
+    "Duration": "24 hours",
+    "Description": [
+      "The spell protects against all magic spying, including crystal balls, spells (including Wish), and even magical scrying by minor deities."
+    ]
+  },
+  {
+    "Name": "Mirror Image",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "2"
+      }
+    ],
+    "Range": "Around caster",
+    "Duration": "1 hour or until destroyed",
+    "Description": [
+      "The spell creates 1d4 images of the caster, acting in perfect synchronization with him like mirror images. Attackers cannot distinguish the images from the caster, and may attack one of the images instead of the caster himself (determined randomly). When a hit is scored upon one of the images, it disappears."
+    ]
+  },
+  {
+    "Name": "Monster Summoning I",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "N/A",
+    "Duration": "6 rounds (minutes)",
+    "Description": [
+      "The caster summons allies, who serve him until slain (or until the duration of the spell expires). The allies do not appear immediately; there is a delay of 1 turn (10 minutes) before they appear."
+    ],
+    "table": "<table class=\"table-auto\" cellspacing=\"0\" cellpadding=\"5\"> \n          <tbody> \n           <tr> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Die Roll</th> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Monster Summoned<sup>1</sup></th> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d6 Giant Rats</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">2</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d3 Dwarves (Goblins)</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">3</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d3 Elves (Hobgoblins)</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">4</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d6 Kobolds</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">5</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d3 Orcs</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">6</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d3 Skeletons</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" colspan=\"2\"><sup><i>1</i></sup><i> Evil casters may get the monster in parenthesis, at the Referee’s discretion</i></td> \n           </tr> \n          </tbody> \n         </table>"
+  },
+  {
+    "Name": "Monster Summoning II",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "4"
+      }
+    ],
+    "Range": "N/A",
+    "Duration": "6 rounds (minutes)",
+    "Description": [
+      "The caster summons allies, who serve him until slain (or until the duration of the spell expires). The allies do not appear immediately; there is a delay of 1 turn (10 minutes) before they appear."
+    ],
+    "table": "<table class=\"table-auto\" cellspacing=\"0\" cellpadding=\"5\"> \n          <tbody> \n           <tr> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Die Roll</th> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Monster Summoned</th> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d2 Hobgoblins</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">2</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d2 Zombies</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">3</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d2 Gnolls</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">4</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d2 Bugbears</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">5</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d6 Orcs</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">6</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d6 Skeletons</td> \n           </tr> \n          </tbody> \n         </table>"
+  },
+  {
+    "Name": "Monster Summoning III",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "5"
+      }
+    ],
+    "Range": "N/A",
+    "Duration": "6 rounds (minutes)",
+    "Description": [
+      "The caster summons allies, who serve him until slain (or until the duration of the spell expires). The allies do not appear immediately; there is a delay of 1 turn (10 minutes) before they appear."
+    ],
+    "table": "<table class=\"table-auto\" cellspacing=\"0\" cellpadding=\"5\"> \n          <tbody> \n           <tr> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Die Roll</th> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Monster Summoned</th> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d4 Bugbears</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">2</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d2 Harpies</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">3</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d2 Ochre Jellies</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">4</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d2 Were-rats</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">5</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d2 Wights</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">6</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d2 Wild Boar</td> \n           </tr> \n          </tbody> \n         </table>"
+  },
+  {
+    "Name": "Monster Summoning IV",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "6"
+      }
+    ],
+    "Range": "N/A",
+    "Duration": "6 rounds (minutes)",
+    "Description": [
+      "The caster summons allies, who serve him until slain (or until the duration of the spell expires). The allies do not appear immediately; there is a delay of 1 turn (10 minutes) before they appear."
+    ],
+    "table": "<table class=\"table-auto\" cellspacing=\"0\" cellpadding=\"5\"> \n          <tbody> \n           <tr> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Die Roll</th> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Monster Summoned</th> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Gargoyle</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">2</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Ogre</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">3</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Owlbear</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">4</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Shadow</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">5</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Werewolf</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">6</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Wraith</td> \n           </tr> \n          </tbody> \n         </table>"
+  },
+  {
+    "Name": "Monster Summoning V",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "7"
+      }
+    ],
+    "Range": "N/A",
+    "Duration": "6 rounds (minutes)",
+    "Description": [
+      "The caster summons allies, who serve him until slain (or until the duration of the spell expires). The allies do not appear immediately; there is a delay of 1 turn (10 minutes) before they appear."
+    ],
+    "table": "<table class=\"table-auto\" cellspacing=\"0\" cellpadding=\"5\"> \n          <tbody> \n           <tr> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Die Roll</th> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Monster Summoned</th> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Cockatrice</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">2</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Manticore</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">3</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Minotaur</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">4</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Ogre Mage</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">5</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Salamander</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">6</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Troll</td> \n           </tr> \n          </tbody> \n         </table>"
+  },
+  {
+    "Name": "Monster Summoning VI",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "8"
+      }
+    ],
+    "Range": "N/A",
+    "Duration": "6 rounds (minutes)",
+    "Description": [
+      "The caster summons allies, who serve him until slain (or until the duration of the spell expires). The allies do not appear immediately; there is a delay of 1 turn (10 minutes) before they appear."
+    ],
+    "table": "<table class=\"table-auto\" cellspacing=\"0\" cellpadding=\"5\"> \n          <tbody> \n           <tr> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Die Roll</th> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Monster Summoned</th> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Black Dragon</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">2</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Chimera</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">3</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Efreeti</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">4</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Flesh Golem</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">5</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Frost Giant</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">6</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Hill Giant</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">7</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Hydra (7 heads)</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">8</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Mummy</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">9</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d2 Ogre Magi</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">10</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 White Dragon</td> \n           </tr> \n          </tbody> \n         </table>"
+  },
+  {
+    "Name": "Monster Summoning VII",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "9"
+      }
+    ],
+    "Range": "N/A",
+    "Duration": "6 rounds (minutes)",
+    "Description": [
+      "The caster summons allies, who serve him until slain (or until the duration of the spell expires). The allies do not appear immediately; there is a delay of 1 turn (10 minutes) before they appear."
+    ],
+    "table": "<table class=\"table-auto\" cellspacing=\"0\" cellpadding=\"5\"> \n          <tbody> \n           <tr> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Die Roll</th> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Monster Summoned</th> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d2 Chimerae</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">2</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Fire Giant</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">3</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Hydra (9 heads)</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">4</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Iron Golem</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">5</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Lich</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">6</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Purple Worm</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">7</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Red Dragon</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">8</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Stone Golem</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">9</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Storm Giant</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">10</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1 Titan</td> \n           </tr> \n          </tbody> \n         </table>"
+  },
+  {
+    "Name": "Move Earth",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "6"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "1 hour; effects permanent",
+    "Description": [
+      "This spell can only be used above ground. It allows the caster to move hills and other raised land or stone at a rate of 6 feet per minute (60 feet per turn)."
+    ]
+  },
+  {
+    "Name": "Neutralize Poison",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "4"
+      },
+      {
+        "className": "Druid",
+        "level": "3"
+      }
+    ],
+    "Range": "Touch",
+    "Duration": "Immediate",
+    "Description": [
+      "This spell counteracts poison if used promptly, but cannot be used to bring the dead back to life later."
+    ]
+  },
+  {
+    "Name": "Obscuring Mist",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "2"
+      }
+    ],
+    "Range": "20 feet",
+    "Duration": "1 turn/level",
+    "Description": [
+      "A misty vapor seethes outward from the casting point, billowing forth to fill a radius of 20 feet + 10 feet per level of the caster."
+    ]
+  },
+  {
+    "Name": "Part Water (Cleric) ",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "7"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "2 hours",
+    "Description": [
+      "This spell creates a gap through water, to a depth of 20 feet. At 18th level and every level thereafter, the Cleric adds 10 feet to the depth of water parted, and 1 additional hour to the spell’s duration."
+    ]
+  },
+  {
+    "Name": "Part Water (Magic-User) ",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "6"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "1 hour",
+    "Description": [
+      "This spell creates a gap through water, but only to a depth of 10 feet."
+    ]
+  },
+  {
+    "Name": "Passplant",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "5"
+      }
+    ],
+    "Range": "Touch (first tree)",
+    "Duration": "1 hour per level or until exit",
+    "Description": [
+      "The caster may step into one tree and emerge from a distant tree of the same kind; both trees must be living, and have a girth as large as the caster’s own. The caster need not step out of the first tree immediately, but may wait within the tree for as long as desired (up to the limit of the spell’s duration) before leaving. It is possible for the caster to step from tree to tree in series without ending the spell; however, upon emerging from any tree into the outside, the caster ends the spell. The table below shows the maximum distance the caster may travel in a single step; this is also the maximum total distance that can be traveled in a single casting of the spell, even if the caster moves through multiple trees. Upon casting the spell, the caster will become aware of the various trees within the range of the spell, so there is no chance of ‘missing’ the target."
+    ],
+    "table": "<table class=\"table-auto\" cellspacing=\"0\" cellpadding=\"5\"> \n          <tbody> \n           <tr> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Type of Tree</th> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Maximum Distance for Spell</th> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Oak, ash, yew</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">3,000 feet</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Elm, linden</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">2,000 feet</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Other deciduous</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1,500 feet</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Any coniferous</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1,000 feet</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">All other trees</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">500 feet</td> \n           </tr> \n          </tbody> \n         </table>"
+  },
+  {
+    "Name": "Passwall",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "5"
+      }
+    ],
+    "Range": "30 feet",
+    "Duration": "3 turns (30 minutes)",
+    "Description": [
+      "This spell creates a hole through solid rock, about 7 feet high, 10 feet wide, and 10 feet deep (possibly deeper at the discretion of the Referee). The hole closes again at the end of the spell’s duration."
+    ]
+  },
+  {
+    "Name": "Permanency",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "8"
+      }
+    ],
+    "Range": "See below",
+    "Duration": "Permanent until dispelled by an opponent of twice the caster’s level",
+    "Description": [
+      "This spell makes the effect of another spell permanent-unless a Magic-User of twice the caster’s level dispels it. No more than one Permanency is ordinarily possible on any one object, and no more than two upon a creature. Considerable Referee discretion is required for the use of this spell; many spells should not be subject to being made permanent. "
+    ]
+  },
+  {
+    "Name": "Phantasmal Force",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "2"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "Until concentration ends",
+    "Description": [
+      "This spell creates an illusion that seems realistic to all who view it. The illusion disappears when it is touched, but if the viewer believes the illusion is real, it can cause damage. Unless the Referee rules otherwise, victims of the spell are permitted a saving throw, and the illusion cannot cause more than 2d6 points of damage per victim. This will depend on circumstances; a truly brilliant use of the spell can be quite devastating, and a poorly thought-out illusion might cause almost immediate disbelief."
+    ]
+  },
+  {
+    "Name": "Phase Door",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "7"
+      }
+    ],
+    "Range": "10 feet from caster",
+    "Duration": "Seven uses",
+    "Description": [
+      "The phase door is an invisible portal about 7 feet high, 10 feet wide, and 10 feet deep, accessible only to the caster. A barrage of Dispel Magic spells can close the passage, but only if the combined level of the dispelling casters is twice that of the portal’s creator."
+    ]
+  },
+  {
+    "Name": "Plant Doorway",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "4"
+      }
+    ],
+    "Range": "Passage begins where caster stands",
+    "Duration": "3 turns + 1 turn/level",
+    "Description": [
+      "This spell opens a pathway for the caster through even the deepest and most tangled growths of plants, thorns, and trees. The pathway can be made up to 5 feet wide, 6 feet tall, and 100 feet in length, but only the caster can move through it. The Druid may choose to remain housed safely inside a tree, if the spell has opened a passage through one. It is possible to remain within the tree after the spell expires; for as long as desired, in fact, before leaving it."
+    ]
+  },
+  {
+    "Name": "Plant Growth",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "3"
+      },
+      {
+        "className": "Magic-User",
+        "level": "4"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "Permanent until dispelled",
+    "Description": [
+      "Undergrowth in the area suddenly grows into an impassable forest of thorns and vines. Up to 300 square feet of ground can be affected by this spell and the caster can decide the shape of the area to be enchanted. An alternate version (Referee’s decision) would allow the spell to affect an area of 300 feet x 300 feet, for a total of 90,000 square feet)."
+    ]
+  },
+  {
+    "Name": "Polymorph Object",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "8"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "Referee’s discretion",
+    "Description": [
+      "An object can be turned into another object, animal, vegetable, or mineral. The degree of change will affect the spell’s duration. Animal-to-animal changes, vegetable-to-vegetable changes, and mineral-to-mineral changes are all likely to remain permanent until dispelled. Thus, turning a human into an orc, or turning a wall into a pile of sand, would both result in a permanent change. On the other hand, turning a shrub into a thinking human being would last only a small number of turns. Determining how long a proposed use of the spell will last is the province of the Referee; it is important to remember that this is an eighth-level spell of considerable power-but not as powerful as a ninth-level Wish spell. "
+    ]
+  },
+  {
+    "Name": "Polymorph Other",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "4"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "Permanent until dispelled",
+    "Description": [
+      "This spell allows the caster to turn another being into a different type of creature, such as a dragon, a garden slug, or of course, a frog or newt. The polymorphed creature gains all the abilities of the new form, but retains its own mind and hit points."
+    ]
+  },
+  {
+    "Name": "Polymorph Self",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "4"
+      }
+    ],
+    "Range": "Caster",
+    "Duration": "1 hour or Referee’s discretion",
+    "Description": [
+      "The caster assumes the form of any object or creature, gaining the new form’s attributes (the use of wings, for example), but not its hit points or combat abilities. The Referee might allow the benefit of the new form’s armor class, if it is due to heavily armored skin. A great deal of the spell’s effect is left to the Referee to decide."
+    ]
+  },
+  {
+    "Name": "Power Word, Blind",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "8"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "1d4 or 2d4 days (See below)",
+    "Description": [
+      "The caster speaks a word of power to a particular creature. If that creature has 40 hit points or fewer, it is instantly blinded for 2d4 days; if the creature has from 41 to 80 hit points, it is blinded for 1d4 days. If the creature has more than 80 hit points it is not affected by the spell. No saving throw applies."
+    ]
+  },
+  {
+    "Name": "Power Word, Kill",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "9"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "Immediate",
+    "Description": [
+      "The caster speaks a word of power to a particular creature. If that creature has 50 hit points or fewer, it is slain by the word it hears; if it has more than 50 hit points it is not affected by the spell. No saving throw is permitted."
+    ]
+  },
+  {
+    "Name": "Power Word, Stun",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "7"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "1d6 or 2d6 turns (See below)",
+    "Description": [
+      "The caster speaks a word of power to a particular creature. If that creature has 35 or fewer hit points, it is instantly stunned for 2d6 turns; if the creature has from 36 to 70 hit points, it is stunned for only 1d6 turns. If the creature has more than 70 hit points it is not affected by the spell. No saving throw is permitted."
+    ]
+  },
+  {
+    "Name": "Prayer",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "3"
+      }
+    ],
+    "Range": "30 feet",
+    "Duration": "Following melee round",
+    "Description": [
+      "The Prayer spell seeks short-term favor from the gods to help some other spell or attack to succeed. Prayer affects a 20-foot x 20-foot area, causing a saving throw penalty to all creatures in that area. The penalty is a -1, plus an additional -1 for every ten caster levels. Thus, a 10th level Cleric causes a saving throw penalty of -2. The penalty actually takes effect in the melee round following the one in which it was cast."
+    ]
+  },
+  {
+    "Name": "Predict Weather",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "1"
+      }
+    ],
+    "Range": "Centered on caster",
+    "Duration": "Immediate",
+    "Description": [
+      "The Druid silently drinks in knowledge from the surrounding area, becoming attuned to the patterns of air, wind, earth and fire. Within moments, the character can predict what the weather conditions will be for the next twelve hours in the immediate vicinity (2 square miles/level). As with most forecasts of weather, conditions may change unexpectedly, giving rise to a 5% chance that the Druid’s prediction will, ultimately, prove to be incorrect."
+    ]
+  },
+  {
+    "Name": "Prismatic Sphere",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "9"
+      }
+    ],
+    "Range": "10 ft sphere",
+    "Duration": "1 hour",
+    "Description": [
+      "A Sphere of seven colors whirls about the Magic-User, with a radius of ten feet. The glowing colors form a layered spectrum; to destroy the sphere, each layer must be destroyed in turn from Red to Orange, to Yellow, to Blue, to Indigo, and then to the innermost Violet layer. Any creature of 7 or fewer hit dice that looks upon the sphere will be blinded for 1d6 turns."
+    ],
+    "table": "<table class=\"table-auto\" cellspacing=\"0\" cellpadding=\"5\"> \n <tbody> \n <tr> \n <th class=\"px-4 py-2\" style=\"text-align:center\">Layer</th> \n            <td class=\"border px-4 py-2\"><b>Effects of Color </b></td> \n            <td class=\"border px-4 py-2\"><b>Negated By </b></td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Red </td> \n            <td class=\"border px-4 py-2\">Causes 12 points of damage to the touch. Stops any magic arrows or missiles (including the spell Magic Missile).</td> \n            <td class=\"border px-4 py-2\">Ice Storm or other cold-based attack</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Orange</td> \n            <td class=\"border px-4 py-2\">Causes 24 points of damage to the touch. Stops arrows and any other non-magical missile.</td> \n            <td class=\"border px-4 py-2\">Lightning Bolt or other electrical attack</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Yellow</td> \n            <td class=\"border px-4 py-2\">Causes 48 points of damage to the touch. Blocks all breath weapons.</td> \n            <td class=\"border px-4 py-2\">Magic Missile spell or a magical arrow</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Green</td> \n            <td class=\"border px-4 py-2\">Causes death (saving throw allowed) to the touch. Blocks any scrying and detection-type spells from seeing within.</td> \n            <td class=\"border px-4 py-2\">Passwall spell or other earth-moving magic</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Blue</td> \n            <td class=\"border px-4 py-2\">Turns flesh to stone when touched (saving throw allowed). Blocks all divine (Cleric) magic from passing through.</td> \n <td class=\"border px-4 py-2\">Disintegrate spell (or from a wand or item)</td> \n </tr> \n <tr> \n <td class=\"border px-4 py-2\" style=\"text-align:center\">Indigo</td> \n <td class=\"border px-4 py-2\">Causes death and destroys the soul utterly when touched (saving throw allowed).</td> \n <td class=\"border px-4 py-2\">Dispel Magic</td> \n </tr> \n <tr> \n <td class=\"border px-4 py-2\" style=\"text-align:center\">Violet</td> \n <td class=\"border px-4 py-2\">Causes permanent insanity when touched. Blocks all arcane (Magic-User) spells.</td> \n <td class=\"border px-4 py-2\">Continual Light</td> \n </tr> \n </tbody> \n </table>"
+  },
+  {
+    "Name": "Produce Fire",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "4"
+      }
+    ],
+    "Range": "30 feet",
+    "Duration": "1 turn (10 minutes)",
+    "Description": [
+      "This spell instantly creates fire in an area of up to 10 feet x 10 feet. The fire burns for no longer than ten minutes without fuel, but will set alight any flammable materials in the area where it was summoned forth. The spell may also be reversed to quench flames rather than ignite them."
+    ]
+  },
+  {
+    "Name": "Produce Flame",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "2"
+      }
+    ],
+    "Range": "Palm of hand",
+    "Duration": "2 turns/level",
+    "Description": [
+      "Flame ignites from nowhere in the palm of the caster’s hand, causing no damage to the caster, but otherwise as hot as natural fire. It can be used while held, or thrown to a distance of 30 feet, to ignite flammable materials. For so long as the druid-fire is in the caster’s hand, it can be extinguished immediately whenever the caster wishes it gone."
+    ]
+  },
+  {
+    "Name": "Project Image",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "6"
+      }
+    ],
+    "Range": "240-foot sphere",
+    "Duration": "1 hour",
+    "Description": [
+      "The caster projects an image of himself or herself, to a maximum range of 240 feet. Not only does the projected image mimic the caster’s sounds and gestures, but also any spells being cast will appear to originate from the image."
+    ]
+  },
+  {
+    "Name": "Protection from Evil",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "1"
+      },
+      {
+        "className": "Magic-User",
+        "level": "1"
+      }
+    ],
+    "Range": "Caster",
+    "Duration": "2 hours",
+    "Description": [
+      "Creates a magical field of protection immediately around the caster, blocking out all enchanted monsters such as elementals and demons). Evil monsters suffer a -1 penalty to hit the caster, and the caster gains +1 on all saving throws against such attacks. If the caster already has any magical bonuses to saving throws or armor class, the bonus from the magic circle has no effect, although the protective circle still functions against enchanted creatures.",
+      "The Magic-User version of this spell is exactly the same as the one used by the Cleric, except that it has a duration time of 1 hour."
+    ]
+  },
+  {
+    "Name": "Protection from Evil, 10-Foot Radius",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "4"
+      },
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "Centered on caster",
+    "Duration": "1 hour",
+    "Description": [
+      "The spell creates a magical field of protection, ten feet in radius, around the caster. The field blocks out all enchanted monsters (such as elementals and demons). Evil monsters suffer a -1 penalty to hit anyone within the protective globe, and these shielded individuals gain +1 on all saving throws against such attacks. If a person in the circle already has any magical bonuses to saving throws or armor class, the bonus from the magic circle has no effect for that person, although the protective circle still functions against enchanted creatures."
+    ]
+  },
+  {
+    "Name": "Protection from Fire",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "3"
+      }
+    ],
+    "Range": "Touch",
+    "Duration": "3 turns +1 turn/level",
+    "Description": [
+      "Protection from Fire may be cast on another person, but it confers a great deal more eldritch warding if it is woven personally around the caster. When used to protect another creature, the spell’s warding grants complete immunity to normal fire and cuts damage from magical fire in half. When used to ward the caster, the spell also grants complete immunity against one exposure to magical fire, after which it functions normally."
+    ]
+  },
+  {
+    "Name": "Protection from Lightning",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "4"
+      }
+    ],
+    "Range": "Touch",
+    "Duration": "6 turns +1 turn/level",
+    "Description": [
+      "This spell protects any creature from lightning, reducing any damage by one-half. Once lightning strikes, however, the spell ends."
+    ]
+  },
+  {
+    "Name": "Protection from Normal Missiles",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "Caster",
+    "Duration": "2 hours",
+    "Description": [
+      "The caster becomes invulnerable to non-magical missiles, although larger missiles such as boulders will overcome the spell’s magic."
+    ]
+  },
+  {
+    "Name": "Purify Food and Drink",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "1"
+      }
+    ],
+    "Range": "Close/Touch (Referee’s discretion)",
+    "Duration": "Immediate",
+    "Description": [
+      "Enough food and water for up to a dozen people is made pure, removing spoilage and poisons."
+    ]
+  },
+  {
+    "Name": "Purify Water",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "1"
+      }
+    ],
+    "Range": "Close/Touch (Referee’s discretion)",
+    "Duration": "Immediate",
+    "Description": [
+      "Approximately ten gallons of water is made pure, removing all poisons, algae, and other such contaminants."
+    ]
+  },
+  {
+    "Name": "Pyrotechnics",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "3"
+      },
+      {
+        "className": "Magic-User",
+        "level": "2"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "1 hour",
+    "Description": [
+      "The caster creates either fireworks or blinding smoke from a normal fire source such as a torch or campfire. The Referee will decide exactly how much smoke (or fireworks) is produced, what effect it has, and what happens to it as it is produced, but the amount of smoke will definitely be more than 8000 cubic feet (roughly 20 x 20 x 20 feet)."
+    ]
+  },
+  {
+    "Name": "Quest",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "5"
+      }
+    ],
+    "Range": "Speaking Range",
+    "Duration": "Until completed",
+    "Description": [
+      "If the spell succeeds (saving throw applies), the caster may set a task for the spell’s victim. If the victim does not diligently work at performing the task, a deadly weakness will set in (50% reduction in Strength), and an attempt to entirely abandon the quest incurs a curse set by the caster in the wording of the original Quest. The details, of course, must be approved by the Referee."
+    ]
+  },
+  {
+    "Name": "Raise Dead",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "5"
+      }
+    ],
+    "Range": "Close/Touch (Referee’s discretion)",
+    "Duration": "Immediate",
+    "Description": [
+      "Raise Dead allows the Cleric to raise a corpse from the dead, provided it has not been dead too long. The normal time limit is 5 days, but for every caster level higher than 8th, the time limit extends another 5 days. Characters with low Constitution might not survive the ordeal, and even for those with strong Constitution a period of at least a week is required before they can function normally. This spell functions only on ‘human-like’ races, that is, ones that can be used for player characters."
+    ]
+  },
+  {
+    "Name": "Read Languages",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "1"
+      }
+    ],
+    "Range": "Normal reading distance",
+    "Duration": "One or two readings",
+    "Description": [
+      "This spell allows the caster to decipher directions, instructions, and formulae in languages unknown to the caster. This can be particularly useful for treasure maps, but it does not solve any codes."
+    ]
+  },
+  {
+    "Name": "Read Magic",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "1"
+      }
+    ],
+    "Range": "Caster only",
+    "Duration": "2 scrolls or other magical writings",
+    "Description": [
+      "This spell allows the caster to read the magical writings upon scrolls and (occasionally) dungeon walls. Without the use of this spell, magical writing cannot be read even by a Magic-User."
+    ]
+  },
+  {
+    "Name": "Reincarnation (Druidic)",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "7"
+      }
+    ],
+    "Range": "Touch",
+    "Duration": "Instantaneous",
+    "Description": [
+      "This spell brings a dead person’s soul back from the dead, but the soul reappears in a newly formed body. Druidic Reincarnation will not affect someone who has been dead more than a week. Roll 1d100, and on a roll of 01-75 the result is determined from the same table as would be used for a Magic-User’s Reincarnation spell (below). If the percentile dice gave a result of 76-00, roll 1d6 on the following table:"
+    ],
+    "table": "<table class=\"table-auto\" cellspacing=\"0\" cellpadding=\"5\"> \n          <tbody> \n           <tr> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Die Roll</th> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Reincarnated as</th> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Bear</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">2</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Lion</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">3</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Mouse</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">4</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Raven</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">5</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Stag</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">6</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Wolf</td> \n           </tr> \n           <tr> \n           </tr> \n          </tbody> \n         </table>"
+  },
+  {
+    "Name": "Reincarnation (Magic-User)",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "6"
+      }
+    ],
+    "Range": "Touch",
+    "Duration": "Instantaneous",
+    "Description": [
+      "This spell brings a dead character’s soul back from the dead, but the soul reappears in a newly formed body. If the resulting creature is a normal character race, roll 1d6 to determine the character’s new level."
+    ],
+    "table": "<table class=\"table-auto\" cellspacing=\"0\" cellpadding=\"5\"> \n          <tbody> \n           <tr> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Die Roll</th> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Reincarnated as…</th> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Bugbear</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">2</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Centaur</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">3</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Dog, Cat, or Wolf</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">4</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Dwarf</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">5</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Elf</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">6</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Gnoll</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">7</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Goblin</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">8</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Half-orc</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">9</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Harpy</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">10</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Hobgoblin</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">11</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Human</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">12</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Kobold</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">13</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Lizard man</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">14</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Lycanthrope (Werewolf or other)</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">15</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Minotaur</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">16</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Ogre</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">17</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Ogre Mage</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">18</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Orc</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">19</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Troll</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">20</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Wyvern</td> \n           </tr> \n          </tbody> \n         </table>"
+  },
+  {
+    "Name": "Remove Curse",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "3"
+      },
+      {
+        "className": "Magic-User",
+        "level": "4"
+      }
+    ],
+    "Range": "Very close",
+    "Duration": "Immediate",
+    "Description": ["This spell removes one curse from a person or object."]
+  },
+  {
+    "Name": "Repel Wood",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "6"
+      }
+    ],
+    "Range": "20 feet/level",
+    "Duration": "1 turn/level",
+    "Description": [
+      "When this spell is cast, a mystical druidic force issues forth from a place designated by the caster, in roughly the shape of a wall 120 feet across. This power rolls forward at a rate of 5 feet per round directly away from the caster, inexorably pressing all wood, or wooden objects, backward. Once the power is set in motion, it cannot be stopped other than by the caster’s command."
+    ]
+  },
+  {
+    "Name": "Repulsion",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "6"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "1 hour",
+    "Description": [
+      "Any creature trying to move toward the caster finds itself moving away, instead."
+    ]
+  },
+  {
+    "Name": "Restoration",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "7"
+      }
+    ],
+    "Range": "Referee’s discretion",
+    "Duration": "Immediate",
+    "Description": [
+      "This spell restores levels lost to such horrible creatures as wraiths and shadows. An evil reversal of the spell allows a Chaotically aligned Cleric to drain a level from the target. The “good” version of the spell is exhausting to the caster, incapacitating him for 2d10 days. At the discretion of the Referee, this spell may restore lost points of attribute scores as well as lost levels."
+    ]
+  },
+  {
+    "Name": "Resurrection",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "7"
+      }
+    ],
+    "Range": "Referee’s discretion",
+    "Duration": "Immediate",
+    "Description": [
+      "This spell (also known as “Raise Dead Fully”) raises the dead back to life, in the same manner as the Raise Dead spell. It is, however, considerably more powerful: the person raised from the dead needs no time to recuperate from the experience of death, and suffers no other penalties. An evil “reversal” of the spell can also be cast, which causes death with no saving throw."
+    ]
+  },
+  {
+    "Name": "Reverse Gravity",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "7"
+      }
+    ],
+    "Range": "90 feet",
+    "Duration": "1 round (minute)",
+    "Description": [
+      "The spell reverses gravity in a cubical area approximately 30 feet x 30 feet x 30 feet in size. Everything in the area falls upward, and then when the spell ends it all falls back down again."
+    ]
+  },
+  {
+    "Name": "Rope Trick",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "As far as the caster can throw a rope",
+    "Duration": "1 hour +1 turn/level",
+    "Description": [
+      "The caster tosses a rope into the air and it hangs there, waiting to be climbed. The caster and up to three others can climb the rope and disappear into a small ‘other’ dimension. The rope itself can be pulled into the pocket dimension, or left outside. If it is left outside, however, someone may steal it."
+    ]
+  },
+  {
+    "Name": "Shape Change",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "9"
+      }
+    ],
+    "Range": "Caster",
+    "Duration": "1d6+10 turns +1 turn/level",
+    "Description": [
+      "When the caster casts this spell upon him- or herself, it allows the caster to turn at will into a variety of creatures. In each form, the wizard gains the characteristics of the creature, much as with the Polymorph Others spell. Thus, turning into a dragon actually allows the caster to use the dragon’s breath weapon. The caster might then choose to turn into a raven, then a frog, or whatever other creature is chosen. It is not, of course, required that the caster use more than one shape-remaining as a dragon for the duration of the spell works perfectly well."
+    ]
+  },
+  {
+    "Name": "Shield",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "1"
+      }
+    ],
+    "Range": "Caster",
+    "Duration": "2 turns",
+    "Description": [
+      "The caster conjures up an invisible shield that interposes itself in front of attacks. The shield improves the caster’s armor class to 2 [17] against missile attacks and to 4 [15] against other (melee) attacks. If the caster’s armor class is already better than the spell would grant, the spell has no effect."
+    ]
+  },
+  {
+    "Name": "Silence, 15-Foot Radius",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "2"
+      }
+    ],
+    "Range": "180 feet",
+    "Duration": "12 turns",
+    "Description": [
+      "Magical silence falls in an area with a 15-foot radius around the targeted creature or object, and moves with it. Nothing from this area, no matter how loud, can be heard outside the radius."
+    ]
+  },
+  {
+    "Name": "Simulacrum",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "7"
+      }
+    ],
+    "Range": "Touch",
+    "Duration": "Permanent",
+    "Description": [
+      "The caster creates a duplicate of himself or some other person. The basic form is created from snow and ice, and must then be animated. (Animate Dead is an acceptable means.) A Limited Wish (along with the actual Simulacrum spell) is then used to imbue the animated form with intelligence and certain knowledge of the person being simulated. The simulacrum gains 30-60% (use a d4) of the simulated creature’s knowledge and experience. The simulacrum follows its creator’s orders. Note that the simulacrum is not a perfect representation of the original. Side by side, the differences are obvious, and the simulacrum is a magical creature detectable with a Detect Magic spell. If the original of the simulacrum dies, a strange effect begins: the simulacrum begins to gain the knowledge and experience of the dead individual at a rate of 1% per week, to a maximum of 90%."
+    ]
+  },
+  {
+    "Name": "Sleep",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "1"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "1 hour",
+    "Description": [
+      "This spell puts enemies into an enchanted slumber (no saving throw is permitted). It affects creatures based on their hit dice."
+    ],
+    "table": "<table class=\"table-auto\" cellspacing=\"0\" cellpadding=\"5\"> \n          <tbody> \n           <tr> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Hit Dice of Victims</th> \n            <th class=\"px-4 py-2\" style=\"text-align:center\">Number Affected</th> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">Less than 1 to 1+</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">4d4</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1+ to 2+</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">2d6</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">3 to 3+</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1d6</td> \n           </tr> \n           <tr> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">4 to 4+</td> \n            <td class=\"border px-4 py-2\" style=\"text-align:center\">1</td> \n           </tr> \n          </tbody> \n         </table>"
+  },
+  {
+    "Name": "Slow",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "3 turns (30 minutes)",
+    "Description": [
+      "In an area with a radius of 60 feet around the point where the spell is targeted, as many as 24 creatures failing a saving throw can move and attack only at half speed."
+    ]
+  },
+  {
+    "Name": "Snake Charm",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "2"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "1d4+2 turns",
+    "Description": [
+      "One hit die (1 HD) of snakes can be charmed per level of the caster. The snakes obey the caster’s commands."
+    ]
+  },
+  {
+    "Name": "Speak with Animals",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "2"
+      },
+      {
+        "className": "Druid",
+        "level": "2"
+      }
+    ],
+    "Range": "Caster",
+    "Duration": "6 turns",
+    "Description": [
+      "The caster can speak with normal animals. There is a good chance that the animals will provide reasonable assistance if requested, and they will not attack – unless the caster uses the spell to say something particularly offensive."
+    ]
+  },
+  {
+    "Name": "Speak with the Dead",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "3"
+      }
+    ],
+    "Range": "Close/Touch (Referee’s discretion)",
+    "Duration": "3 questions",
+    "Description": [
+      "The caster can ask three questions of a corpse, and it will answer, although the answers might be cryptic. Only higher-level Clerics have enough spiritual power to command answers of long-dead corpses. Clerics lower than 8th level can gain answers only from bodies that have been dead 1d4 days. Clerics levels 8-14 can speak to corpses that have been dead 1d4 months. Clerics of level 15+ can gain answers from a corpse of any age, including thousand-year-old relics, as long as the body is still relatively intact. Note that a die roll is involved here: for example, a seventh-level Cleric attempting to speak with a two-day-old corpse might still fail-the d4 roll might indicate that only a one-day-old corpse can be reached with this particular attempt at the spell."
+    ]
+  },
+  {
+    "Name": "Speak with Monsters",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "6"
+      }
+    ],
+    "Range": "Speaking Range",
+    "Duration": "3d4 questions",
+    "Description": [
+      "The caster can speak with any type of monster, for the duration of a certain number of questions. The monster is not forced to answer."
+    ]
+  },
+  {
+    "Name": "Speak with Plants",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "4"
+      },
+      {
+        "className": "Druid",
+        "level": "4"
+      }
+    ],
+    "Range": "Speaking Range",
+    "Duration": "6 turns",
+    "Description": [
+      "The caster can speak and understand the speech of plants. Plants smaller than trees will obey commands, moving aside when requested, etc."
+    ]
+  },
+  {
+    "Name": "Strength",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "2"
+      }
+    ],
+    "Range": "Touch",
+    "Duration": "8 hours (80 turns)",
+    "Description": [
+      "This spell may be cast upon a Fighter or a Cleric. For the duration of the spell, a Fighter gains 2d4 points of Strength, and a Cleric gains 1d6 points of Strength. Strength cannot exceed 18 unless the Referee chooses to allow additional bonuses resulting from the additional Strength."
+    ]
+  },
+  {
+    "Name": "Sticks to Snakes",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "4"
+      },
+      {
+        "className": "Druid",
+        "level": "5"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "1 hour",
+    "Description": [
+      "The caster may turn as many as 2d8 normal sticks into snakes, each one having a 50% chance of being venomous. The snakes follow commands, but turn back into sticks at the end of the spell, or when killed."
+    ]
+  },
+  {
+    "Name": "Stone to Flesh",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "6"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "Permanent until reversed",
+    "Description": [
+      "This spell can be used to counteract the negative effects of monsters who petrify their victims. It can also be reversed to turn flesh into stone, as desired by the caster. A saving throw is permitted to avoid being turned to stone, but if the spell succeeds the victim is transformed into a statue; the stone-to-flesh version of the spell will restore the victim to normal."
+    ]
+  },
+  {
+    "Name": "Suggestion",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "Shouting distance",
+    "Duration": "1 week",
+    "Description": [
+      "The caster speaks a hypnotic suggestion to the intended victim. Victims who fail a saving throw will carry out the suggestion, as long as it can be performed within a week. The suggestion might not call for the action to be carried out immediately, and can be contingent upon something else happening first. A suggestion that the victim commit suicide is only 1% likely to be obeyed."
+    ]
+  },
+  {
+    "Name": "Symbol (Cleric)",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "7"
+      }
+    ],
+    "Range": "Referee’s discretion (according to symbol)",
+    "Duration": "Varies (depends upon symbol used)",
+    "Description": [
+      "A Symbol spell creates a deadly magical trap, written into the shape of a divine rune. The rune’s magic is activated when any person or creature hostile to the caster reads it, or passes over, under, or past it. Various different runes are known, and others may be possible:",
+      "Symbol of Discord: Causes all creatures in the hostile group to begin arguing, and possibly fighting amongst themselves with lethal intent.",
+      "Symbol of Fear: Casts a Fear spell.",
+      "Symbol of Sleep: Casts a Sleep spell affecting double the normal number of creatures and with double the normal duration.",
+      "Symbol of Stunning: 150 hit dice (HD) of creatures are affected as per a Power Word, Stun.",
+      "Divine symbols cannot be crafted in such a way that would cause a permanent effect (such as insanity) upon those affected."
+    ]
+  },
+  {
+    "Name": "Symbol (Magic-User)",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "8"
+      }
+    ],
+    "Range": "Referee’s discretion (according to symbol)",
+    "Duration": "Varies (depends upon symbol used)",
+    "Description": [
+      "A Symbol spell creates a deadly magical trap, written into the shape of an arcane rune. The rune’s magic is activated when any person or creature hostile to the caster reads it, or passes over, under, or past it. Various different runes are known, and others may be possible:",
+      "Symbol of Death: Deals 80 hit points of damage",
+      "Symbol of Discord: Causes all creatures in the hostile group to begin arguing, and possibly fighting amongst themselves with lethal intent.",
+      "Symbol of Fear: Casts a Fear spell.",
+      "Symbol of Insanity: Up to 100 HD of creatures are driven insane by a curse.",
+      "Symbol of Sleep: Casts a Sleep spell affecting double the normal number of creatures and with double the normal duration.",
+      "Symbol of Stunning: 150 hit dice (HD) of creatures are affected as per a Power Word, Stun."
+    ]
+  },
+  {
+    "Name": "Telekinesis",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "5"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "6 turns (1 hour)",
+    "Description": [
+      "The caster can move objects using mental power alone. The amount of weight that can be lifted and moved is 20 pounds per level. It is up to the Referee’s interpretation of the spell whether the objects can be thrown, and at what speed."
+    ]
+  },
+  {
+    "Name": "Teleport",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "5"
+      }
+    ],
+    "Range": "Touch",
+    "Duration": "Instantaneous",
+    "Description": [
+      "This spell transports the caster or another person to a destination that the caster knows, or at least knows what it looks like from a picture or a map. Success depends on how well the caster knows the targeted location, as follows:",
+      "1. If the caster has only seen the location in a picture or through a map (so that knowledge is not based on direct experience), there is only a 25% chance of success, and failure means death, for the traveler’s soul is lost in the spaces between realities. 2. If the caster has seen but not studied the location, there is a 20% chance of error. In the case of an error, there is a 50% chance that the traveler arrives low, 1d10 x10 feet below the intended location (with death resulting from arrival within a solid substance). If the error is high (over the 50% chance for a “low” arrival), the traveler arrives 1d10 x10 feet above the targeted location-likely resulting in a deadly fall. 3. If the caster is well familiar with the location, or has studied it carefully, there is only a 5% chance of error. On a 1 in 6 the teleport is low, otherwise it is high. In either case, the arrival is 1d4 x10 feet high or low."
+    ]
+  },
+  {
+    "Name": "Time Stop",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "9"
+      }
+    ],
+    "Range": "Caster",
+    "Duration": "1d4+1 rounds",
+    "Description": [
+      "The caster stops the passage of time in a radius of about 15 feet around himself. (The time-stopped area does not thereafter move with the caster.) Any creatures within this area are suspended in time, unable to act. The caster is not stopped in time while in the area or beyond."
+    ]
+  },
+  {
+    "Name": "Transmute Metal to Wood",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "7"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "Permanent",
+    "Description": [
+      "This spell transmutes metal into wood in a 10-foot x 10-foot area. Each discrete piece of metal is allowed a saving throw. (Coins may be checked in batches rather than rolling hundreds of saving throws.) The effect cannot be dispelled, although a reversed version of this spell could be used to undo the transmutation."
+    ]
+  },
+  {
+    "Name": "Transmute Rock to Mud",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "5"
+      },
+      {
+        "className": "Magic-User",
+        "level": "5"
+      }
+    ],
+    "Range": "120 feet",
+    "Duration": "3d6 days, unless reversed",
+    "Description": [
+      "This spell transmutes rock (and any other form of earth, including sand) into mud. An area of roughly 300 x 300 feet becomes a deep mire, reducing movement to 10% of normal."
+    ]
+  },
+  {
+    "Name": "Transport via Plants",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "6"
+      }
+    ],
+    "Range": "Touch first plant",
+    "Duration": "24 hours or until travel is completed",
+    "Description": [
+      "The caster may enter any normal plant and pass any distance to a chosen plant of the same kind in a single round, regardless of the distance separating the two. Both plants must be alive. The caster may also choose to remain in one or the other of the two plants for up to 24 hours, but the destruction of an occupied plant slays the caster and ejects the body from the plant. The caster becomes aware of all plants within 3000 feet, and the spell will not fail if the attempted travel is made within this radius. However, if the caster attempts to travel beyond this radius into the substance of a plant the caster has never before seen – meaning that specific plant, not just the species – there is a 20% chance of error during travel. The exact nature of the error depends upon specific circumstances, but it is likely to be off by a margin of at least 1d6 miles, into any other sort of plant."
+    ]
+  },
+  {
+    "Name": "Wall of Fire",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "5"
+      },
+      {
+        "className": "Magic-User",
+        "level": "4"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "Concentration",
+    "Description": [
+      "A wall of fire flares into being and burns for as long as the caster concentrates upon it. Creatures with 3 or fewer hit dice cannot pass through it, and no creature can see through it to the other side. Passing through the fire inflicts 1d6 hit points of damage (no saving throw) and undead creatures sustain twice the normal damage. The caster may choose to create a straight wall 60 feet long and 20 feet high, or a circular wall with a 15-foot radius, also 20 feet high."
+    ]
+  },
+  {
+    "Name": "Wall of Ice",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "4"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "Concentration",
+    "Description": [
+      "The caster conjures up a wall of ice, six feet thick and non-transparent. The caster may choose to create a straight wall 60 feet long and 20 feet high, or a circular wall with a 15-foot radius, also 20 feet high. Creatures with 3 or fewer hit dice cannot affect the wall, but creatures of 4+ hit dice are able to smash through it, taking 1d6 points of damage in the process. Creatures with fire-based metabolisms take 2d6 instead of the normal 1d6. Fire spells and magical effects are negated in the vicinity of the wall."
+    ]
+  },
+  {
+    "Name": "Wall of Iron",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "5"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "2 hours",
+    "Description": [
+      "The caster conjures an iron wall from thin air. The wall is 3 feet thick, 50 feet tall, and 50 feet long."
+    ]
+  },
+  {
+    "Name": "Wall of Stone",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "5"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "Permanent until dispelled",
+    "Description": [
+      "The wall of stone conjured by this spell is two feet thick, with a surface area of 1,000 square feet. The caster might choose to make the wall 50 feet long (in which case it would be 20 feet tall), or 100 feet long (in which case it would be only 10 feet tall)."
+    ]
+  },
+  {
+    "Name": "Warp Wood",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "2"
+      }
+    ],
+    "Range": "60 feet",
+    "Duration": "Permanent",
+    "Description": [
+      "This spell warps, bends, and twists wood. The volume of about one 2-inch x 4-inch x 5-foot plank may be affected per every two levels of the caster – the volume of a spear or several arrows. However, keep in mind that springing a door open or causing a leak in a ship’s planking does not actually require much of the constituent wood to be warped."
+    ]
+  },
+  {
+    "Name": "Water Breathing",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "3"
+      },
+      {
+        "className": "Magic-User",
+        "level": "3"
+      }
+    ],
+    "Range": "30 feet",
+    "Duration": "2 hours",
+    "Description": [
+      "The recipient of the spell is able to breathe underwater until the spell’s duration expires."
+    ]
+  },
+  {
+    "Name": "Weather Summoning",
+    "learnedBy": [
+      {
+        "className": "Druid",
+        "level": "6"
+      }
+    ],
+    "Range": "Centered on caster",
+    "Duration": "1 hour/level",
+    "Description": [
+      "Within 30 minutes, whatever weather the Druid desires will form in the surrounding five-mile radius. It is not under the caster’s control, in the sense that it will not specifically target any individuals or affect one place within the radius more than any other place. Note that this spell is not by any means the only way in which groups of druids might exercise control over weather conditions using holy places or acting together in mystic rituals. It is simply the manner by which a lone (but powerful) Druid can summon forth weather conditions using no ritual beyond mere spell casting."
+    ]
+  },
+  {
+    "Name": "Web",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "2"
+      }
+    ],
+    "Range": "30 feet",
+    "Duration": "8 hours",
+    "Description": [
+      "Fibrous, sticky webs fill an area up to 10 x 10 x 20 feet. It is extremely difficult to get through the mass of strands-it takes one turn if a torch and sword (or a flaming sword) are used, and creatures larger than a horse can break through in 2 turns. Humans alone take more time to break through-perhaps 3-4 turns or longer at the Referee’s discretion."
+    ]
+  },
+  {
+    "Name": "Wizard Eye",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "4"
+      }
+    ],
+    "Range": "240 feet",
+    "Duration": "1 hour",
+    "Description": [
+      "The caster conjures up an invisible, magical “eye”, that can move a maximum of 240 feet from its creator. It floats along as directed by the caster, at a rate of 120 feet per turn (12 feet per minute)."
+    ]
+  },
+  {
+    "Name": "Wizard Lock",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "2"
+      }
+    ],
+    "Range": "Close",
+    "Duration": "Permanent until dispelled",
+    "Description": [
+      "As with a Hold Portal spell, Wizard Lock holds a door closed, but it is permanent until dispelled. Creatures with magic resistance can shatter the spell without effort. Any Magic-User at least three levels higher than the caster can open the portal, and a Knock spell will open it as well, although the spell is not permanently destroyed in these cases."
+    ]
+  },
+  {
+    "Name": "Wish",
+    "learnedBy": [
+      {
+        "className": "Magic-User",
+        "level": "9"
+      }
+    ],
+    "Range": "Unlimited",
+    "Duration": "See below",
+    "Description": [
+      "This spell is not all-powerful; it grants wishes of limited scope (although more powerful than a Limited Wish). The Referee’s discretion will rule what sort of wishes are within the spell’s power. (One possible-unofficial-guideline might be that a Wish can grant effects that would be similar in power to a spell of level 8 or lower, with permanent effects in many cases.) After casting a Wish spell, the Magic-User is mentally drained and unable to cast spells for a period of 1d4 days."
+    ]
+  },
+  {
+    "Name": "Wind Walk",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "7"
+      }
+    ],
+    "Range": "Touch",
+    "Duration": "1 day or until dispelled",
+    "Description": [
+      "The caster and one other person in contact with him become incorporeal and mist-like, able to travel through walls and other obstacles. The Cleric can bring this companion along and travel at 48 feet per minute indoors (or in subterranean settings) and much faster outdoors."
+    ]
+  },
+  {
+    "Name": "Word of Recall",
+    "learnedBy": [
+      {
+        "className": "Cleric",
+        "level": "6"
+      }
+    ],
+    "Range": "Indefinite",
+    "Duration": "Immediate",
+    "Description": [
+      "The Cleric teleports without error back to a prepared sanctuary."
+    ]
+  }
+]
